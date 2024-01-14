@@ -4,25 +4,29 @@ module Cipher where
 
 import           Data.Char
 
--- converts a string into a caeser cipher shifted string
-caesar :: Int -> String -> String
-caesar shift = map (caesarLetter shift . toLower)
+-- stuff from the webs
+shift :: (Int -> Int -> Int) -> Int -> Char -> Char
+shift op offset ch = numToChar $ (charToNum ch) `op` (offset)
+  where
+    numToChar n = chr $ (n `mod` 26) + ord 'A'
 
-unCaesar shift = caesar (-shift)
+vigenere :: String -> String -> String
+vigenere secret = zipWith (shift (+)) (cycle $ map charToNum secret) . concat . words
 
-minC = ord 'a'
-maxC = ord 'z'
+unvigenere :: String -> String -> String
+unvigenere secret = zipWith (shift (-)) (cycle $ map charToNum secret) . concat . words
 
--- converts a single character into a caeser caesar shifted character
-caesarLetter :: Int -> Char -> Char
-caesarLetter shift c
-  | ord c > minC && ord c< maxC = chr (wrapAddition (ord c) shift)
-  | otherwise = c
+caeser :: Int -> String -> String
+caeser offset = map (shift (+) offset)
 
+uncaeser :: Int -> String -> String
+uncaeser offset = map (shift (-) offset)
 
-wrapAddition :: Int -> Int -> Int
-wrapAddition a b
-  | y > maxC = minC + mod y maxC - 1
-  | y < minC = maxC - (minC - y) + 1
-  | otherwise = y
-  where y = a + b
+charToNum :: Char -> Int
+charToNum ch = ord ch - ord 'A'
+
+f :: Show a => (a, b) -> IO (a, b)
+f t@(a, _) = do
+  print a
+  return t
+
