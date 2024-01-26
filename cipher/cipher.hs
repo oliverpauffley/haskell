@@ -24,9 +24,3 @@ uncaeser offset = map (shift (-) offset)
 
 charToNum :: Char -> Int
 charToNum ch = ord ch - ord 'A'
-
-f :: Show a => (a, b) -> IO (a, b)
-f t@(a, _) = do
-  print a
-  return t
-
