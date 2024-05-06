@@ -1,0 +1,317 @@
+Test suite semigroup-test: RUNNING...
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj True
+
+Passed:
+BoolConj False
+
+Passed:
+BoolConj True
+
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
+Test suite semigroup-test: PASS
+Test suite logged to: /home/ollie/code/haskell/haskell_from_first_principles/chapter_15/semigroup/dist-newstyle/build/x86_64-linux/ghc-9.6.4/semigroup-0.1.0.0/t/semigroup-test/test/semigroup-0.1.0.0-semigroup-test.log

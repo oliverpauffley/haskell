@@ -1,0 +1,39 @@
+Test suite chapter18-test: RUNNING...
+
+functor:
+  identity: +++ OK, passed 500 tests.
+  compose:  +++ OK, passed 500 tests.
+
+applicative:
+  identity:     +++ OK, passed 500 tests.
+  composition:  +++ OK, passed 500 tests.
+  homomorphism: +++ OK, passed 500 tests.
+  interchange:  +++ OK, passed 500 tests.
+  functor:      +++ OK, passed 500 tests.
+
+monad laws:
+  left  identity: +++ OK, passed 500 tests.
+  right identity: +++ OK, passed 500 tests.
+  associativity:  +++ OK, passed 500 tests.
+  pure:           +++ OK, passed 500 tests.
+  ap:             +++ OK, passed 500 tests.
+
+functor:
+  identity: +++ OK, passed 500 tests.
+  compose:  +++ OK, passed 500 tests.
+
+applicative:
+  identity:     +++ OK, passed 500 tests.
+  composition:  +++ OK, passed 500 tests.
+  homomorphism: +++ OK, passed 500 tests.
+  interchange:  +++ OK, passed 500 tests.
+  functor:      +++ OK, passed 500 tests.
+
+monad laws:
+  left  identity: +++ OK, passed 500 tests.
+  right identity: +++ OK, passed 500 tests.
+  associativity:  +++ OK, passed 500 tests.
+  pure:           +++ OK, passed 500 tests.
+  ap:             +++ OK, passed 500 tests.
+Test suite chapter18-test: PASS
+Test suite logged to: /home/ollie/code/haskell/haskell_from_first_principles/chapter_18/dist-newstyle/build/x86_64-linux/ghc-9.6.4/chapter18-0.1.0.0/t/chapter18-test/test/chapter18-0.1.0.0-chapter18-test.log

@@ -1,0 +1,5417 @@
+Test suite functor-test: RUNNING...
+Passed:
+Identity 0
+
+Passed:
+Identity 1
+
+Passed:
+Identity 2
+
+Passed:
+Identity (-1)
+
+Passed:
+Identity 2
+
+Passed:
+Identity 3
+
+Passed:
+Identity (-4)
+
+Passed:
+Identity (-2)
+
+Passed:
+Identity 0
+
+Passed:
+Identity 4
+
+Passed:
+Identity 0
+
+Passed:
+Identity 4
+
+Passed:
+Identity 3
+
+Passed:
+Identity 5
+
+Passed:
+Identity (-11)
+
+Passed:
+Identity (-4)
+
+Passed:
+Identity (-10)
+
+Passed:
+Identity 10
+
+Passed:
+Identity 18
+
+Passed:
+Identity 2
+
+Passed:
+Identity (-13)
+
+Passed:
+Identity 4
+
+Passed:
+Identity (-4)
+
+Passed:
+Identity (-10)
+
+Passed:
+Identity 12
+
+Passed:
+Identity (-1)
+
+Passed:
+Identity (-6)
+
+Passed:
+Identity 11
+
+Passed:
+Identity (-14)
+
+Passed:
+Identity (-29)
+
+Passed:
+Identity 26
+
+Passed:
+Identity 11
+
+Passed:
+Identity 25
+
+Passed:
+Identity 32
+
+Passed:
+Identity (-34)
+
+Passed:
+Identity 6
+
+Passed:
+Identity 5
+
+Passed:
+Identity (-28)
+
+Passed:
+Identity (-7)
+
+Passed:
+Identity 20
+
+Passed:
+Identity 31
+
+Passed:
+Identity 3
+
+Passed:
+Identity (-24)
+
+Passed:
+Identity 17
+
+Passed:
+Identity 36
+
+Passed:
+Identity 38
+
+Passed:
+Identity 1
+
+Passed:
+Identity 3
+
+Passed:
+Identity 16
+
+Passed:
+Identity 15
+
+Passed:
+Identity (-15)
+
+Passed:
+Identity (-39)
+
+Passed:
+Identity 44
+
+Passed:
+Identity 10
+
+Passed:
+Identity 36
+
+Passed:
+Identity (-40)
+
+Passed:
+Identity (-20)
+
+Passed:
+Identity 28
+
+Passed:
+Identity 37
+
+Passed:
+Identity (-23)
+
+Passed:
+Identity 47
+
+Passed:
+Identity (-60)
+
+Passed:
+Identity 13
+
+Passed:
+Identity (-48)
+
+Passed:
+Identity 44
+
+Passed:
+Identity 11
+
+Passed:
+Identity (-25)
+
+Passed:
+Identity 1
+
+Passed:
+Identity (-3)
+
+Passed:
+Identity 3
+
+Passed:
+Identity (-57)
+
+Passed:
+Identity (-56)
+
+Passed:
+Identity 70
+
+Passed:
+Identity (-35)
+
+Passed:
+Identity 24
+
+Passed:
+Identity (-74)
+
+Passed:
+Identity (-74)
+
+Passed:
+Identity (-43)
+
+Passed:
+Identity (-10)
+
+Passed:
+Identity (-42)
+
+Passed:
+Identity (-52)
+
+Passed:
+Identity (-80)
+
+Passed:
+Identity (-3)
+
+Passed:
+Identity 58
+
+Passed:
+Identity (-67)
+
+Passed:
+Identity (-2)
+
+Passed:
+Identity 72
+
+Passed:
+Identity 39
+
+Passed:
+Identity (-24)
+
+Passed:
+Identity (-35)
+
+Passed:
+Identity 8
+
+Passed:
+Identity (-45)
+
+Passed:
+Identity (-38)
+
+Passed:
+Identity (-83)
+
+Passed:
+Identity 23
+
+Passed:
+Identity (-22)
+
+Passed:
+Identity (-71)
+
+Passed:
+Identity 2
+
+Passed:
+Identity (-57)
+
+Passed:
+Identity 56
+
++++ OK, passed 100 tests.
+Passed:
+0
+
+Passed:
+0
+
+Passed:
+-2
+
+Passed:
+3
+
+Passed:
+-2
+
+Passed:
+-1
+
+Passed:
+1
+
+Passed:
+1
+
+Passed:
+-6
+
+Passed:
+-2
+
+Passed:
+0
+
+Passed:
+11
+
+Passed:
+3
+
+Passed:
+-9
+
+Passed:
+13
+
+Passed:
+-3
+
+Passed:
+0
+
+Passed:
+-7
+
+Passed:
+13
+
+Passed:
+15
+
+Passed:
+-7
+
+Passed:
+11
+
+Passed:
+1
+
+Passed:
+-10
+
+Passed:
+4
+
+Passed:
+-16
+
+Passed:
+13
+
+Passed:
+-19
+
+Passed:
+7
+
+Passed:
+28
+
+Passed:
+-3
+
+Passed:
+-28
+
+Passed:
+18
+
+Passed:
+-13
+
+Passed:
+-14
+
+Passed:
+21
+
+Passed:
+-3
+
+Passed:
+-3
+
+Passed:
+29
+
+Passed:
+-9
+
+Passed:
+-35
+
+Passed:
+-19
+
+Passed:
+-40
+
+Passed:
+0
+
+Passed:
+-28
+
+Passed:
+-21
+
+Passed:
+11
+
+Passed:
+-14
+
+Passed:
+-1
+
+Passed:
+41
+
+Passed:
+15
+
+Passed:
+-46
+
+Passed:
+-43
+
+Passed:
+-41
+
+Passed:
+-26
+
+Passed:
+-47
+
+Passed:
+-8
+
+Passed:
+19
+
+Passed:
+18
+
+Passed:
+-27
+
+Passed:
+15
+
+Passed:
+21
+
+Passed:
+-3
+
+Passed:
+-37
+
+Passed:
+-51
+
+Passed:
+-5
+
+Passed:
+-7
+
+Passed:
+38
+
+Passed:
+-18
+
+Passed:
+-39
+
+Passed:
+-7
+
+Passed:
+-42
+
+Passed:
+13
+
+Passed:
+-31
+
+Passed:
+-10
+
+Passed:
+1
+
+Passed:
+64
+
+Passed:
+65
+
+Passed:
+67
+
+Passed:
+20
+
+Passed:
+53
+
+Passed:
+25
+
+Passed:
+-2
+
+Passed:
+48
+
+Passed:
+-11
+
+Passed:
+-2
+
+Passed:
+-65
+
+Passed:
+-75
+
+Passed:
+67
+
+Passed:
+-14
+
+Passed:
+66
+
+Passed:
+-12
+
+Passed:
+34
+
+Passed:
+10
+
+Passed:
+5
+
+Passed:
+33
+
+Passed:
+90
+
+Passed:
+62
+
+Passed:
+-38
+
+Passed:
+8
+
++++ OK, passed 100 tests.
+Passed:
+Pair 0 0
+
+Passed:
+Pair 1 (-1)
+
+Passed:
+Pair (-1) 1
+
+Passed:
+Pair 1 (-1)
+
+Passed:
+Pair (-4) (-1)
+
+Passed:
+Pair (-3) 4
+
+Passed:
+Pair 2 5
+
+Passed:
+Pair 6 (-7)
+
+Passed:
+Pair 4 (-6)
+
+Passed:
+Pair (-9) 1
+
+Passed:
+Pair (-4) 7
+
+Passed:
+Pair (-9) 3
+
+Passed:
+Pair 11 2
+
+Passed:
+Pair 10 (-7)
+
+Passed:
+Pair (-11) 5
+
+Passed:
+Pair 7 2
+
+Passed:
+Pair 12 10
+
+Passed:
+Pair 4 6
+
+Passed:
+Pair (-12) (-2)
+
+Passed:
+Pair (-14) (-16)
+
+Passed:
+Pair 6 (-5)
+
+Passed:
+Pair 6 (-9)
+
+Passed:
+Pair 17 8
+
+Passed:
+Pair 0 (-19)
+
+Passed:
+Pair (-22) 22
+
+Passed:
+Pair 20 18
+
+Passed:
+Pair 2 (-8)
+
+Passed:
+Pair (-4) 17
+
+Passed:
+Pair (-8) (-16)
+
+Passed:
+Pair (-26) 10
+
+Passed:
+Pair (-3) 11
+
+Passed:
+Pair 1 (-2)
+
+Passed:
+Pair (-9) (-20)
+
+Passed:
+Pair (-7) (-27)
+
+Passed:
+Pair (-27) 30
+
+Passed:
+Pair (-20) (-6)
+
+Passed:
+Pair 24 (-7)
+
+Passed:
+Pair (-11) (-18)
+
+Passed:
+Pair 16 (-14)
+
+Passed:
+Pair 8 16
+
+Passed:
+Pair 33 (-8)
+
+Passed:
+Pair 39 (-14)
+
+Passed:
+Pair (-20) 24
+
+Passed:
+Pair (-18) 25
+
+Passed:
+Pair 32 24
+
+Passed:
+Pair 35 33
+
+Passed:
+Pair 19 30
+
+Passed:
+Pair 29 47
+
+Passed:
+Pair (-6) 30
+
+Passed:
+Pair (-5) (-5)
+
+Passed:
+Pair (-16) 2
+
+Passed:
+Pair (-22) 21
+
+Passed:
+Pair 16 (-20)
+
+Passed:
+Pair 8 (-19)
+
+Passed:
+Pair 46 41
+
+Passed:
+Pair 1 14
+
+Passed:
+Pair (-35) (-7)
+
+Passed:
+Pair (-56) (-29)
+
+Passed:
+Pair (-7) 49
+
+Passed:
+Pair 34 (-40)
+
+Passed:
+Pair (-34) (-54)
+
+Passed:
+Pair 16 43
+
+Passed:
+Pair (-17) (-23)
+
+Passed:
+Pair 20 (-54)
+
+Passed:
+Pair (-61) (-15)
+
+Passed:
+Pair 14 17
+
+Passed:
+Pair 16 36
+
+Passed:
+Pair 60 (-54)
+
+Passed:
+Pair (-32) (-57)
+
+Passed:
+Pair 1 (-63)
+
+Passed:
+Pair (-70) 48
+
+Passed:
+Pair 19 57
+
+Passed:
+Pair 45 (-46)
+
+Passed:
+Pair (-72) (-2)
+
+Passed:
+Pair (-71) (-46)
+
+Passed:
+Pair 54 (-62)
+
+Passed:
+Pair 28 55
+
+Passed:
+Pair 62 (-53)
+
+Passed:
+Pair 30 25
+
+Passed:
+Pair 56 9
+
+Passed:
+Pair (-4) (-27)
+
+Passed:
+Pair (-57) (-5)
+
+Passed:
+Pair 50 67
+
+Passed:
+Pair 4 12
+
+Passed:
+Pair (-8) (-20)
+
+Passed:
+Pair (-18) (-74)
+
+Passed:
+Pair 59 54
+
+Passed:
+Pair (-46) 77
+
+Passed:
+Pair (-73) 60
+
+Passed:
+Pair 63 (-58)
+
+Passed:
+Pair (-87) (-55)
+
+Passed:
+Pair (-12) (-2)
+
+Passed:
+Pair (-10) 62
+
+Passed:
+Pair 71 (-25)
+
+Passed:
+Pair (-15) (-18)
+
+Passed:
+Pair 70 (-19)
+
+Passed:
+Pair (-70) 8
+
+Passed:
+Pair (-25) (-71)
+
+Passed:
+Pair (-98) 72
+
+Passed:
+Pair (-53) 45
+
++++ OK, passed 100 tests.
+Passed:
+0
+0
+
+Passed:
+1
+1
+
+Passed:
+1
+2
+
+Passed:
+-1
+0
+
+Passed:
+-3
+4
+
+Passed:
+3
+5
+
+Passed:
+1
+-6
+
+Passed:
+-7
+6
+
+Passed:
+-4
+5
+
+Passed:
+-3
+1
+
+Passed:
+-10
+10
+
+Passed:
+-7
+-5
+
+Passed:
+-1
+-3
+
+Passed:
+13
+7
+
+Passed:
+-14
+-2
+
+Passed:
+-10
+-12
+
+Passed:
+-3
+-9
+
+Passed:
+-2
+-9
+
+Passed:
+-16
+3
+
+Passed:
+2
+-3
+
+Passed:
+3
+5
+
+Passed:
+11
+15
+
+Passed:
+1
+-15
+
+Passed:
+18
+-15
+
+Passed:
+19
+21
+
+Passed:
+17
+22
+
+Passed:
+20
+-4
+
+Passed:
+-22
+5
+
+Passed:
+22
+18
+
+Passed:
+-26
+-4
+
+Passed:
+-20
+3
+
+Passed:
+-2
+-15
+
+Passed:
+19
+3
+
+Passed:
+27
+-23
+
+Passed:
+-8
+-16
+
+Passed:
+-13
+-26
+
+Passed:
+-36
+14
+
+Passed:
+18
+-3
+
+Passed:
+33
+-35
+
+Passed:
+-19
+-23
+
+Passed:
+14
+-18
+
+Passed:
+-20
+35
+
+Passed:
+23
+29
+
+Passed:
+-18
+-11
+
+Passed:
+39
+36
+
+Passed:
+37
+-24
+
+Passed:
+6
+-4
+
+Passed:
+-12
+-26
+
+Passed:
+38
+44
+
+Passed:
+-30
+-46
+
+Passed:
+18
+19
+
+Passed:
+-49
+0
+
+Passed:
+-7
+-6
+
+Passed:
+-14
+50
+
+Passed:
+3
+-38
+
+Passed:
+-26
+-39
+
+Passed:
+-30
+4
+
+Passed:
+55
+2
+
+Passed:
+4
+46
+
+Passed:
+-15
+6
+
+Passed:
+3
+19
+
+Passed:
+-33
+-3
+
+Passed:
+-35
+-9
+
+Passed:
+13
+-23
+
+Passed:
+-60
+-16
+
+Passed:
+42
+-53
+
+Passed:
+-57
+14
+
+Passed:
+51
+62
+
+Passed:
+68
+2
+
+Passed:
+53
+65
+
+Passed:
+-29
+-56
+
+Passed:
+-14
+-11
+
+Passed:
+-64
+-18
+
+Passed:
+-9
+9
+
+Passed:
+20
+-14
+
+Passed:
+-22
+-17
+
+Passed:
+-38
+-40
+
+Passed:
+-19
+-9
+
+Passed:
+-26
+-21
+
+Passed:
+19
+70
+
+Passed:
+-8
+-58
+
+Passed:
+48
+-58
+
+Passed:
+1
+29
+
+Passed:
+36
+-44
+
+Passed:
+-28
+-39
+
+Passed:
+54
+29
+
+Passed:
+24
+-40
+
+Passed:
+-42
+40
+
+Passed:
+-20
+-8
+
+Passed:
+80
+23
+
+Passed:
+-15
+13
+
+Passed:
+16
+18
+
+Passed:
+91
+61
+
+Passed:
+-74
+73
+
+Passed:
+31
+-13
+
+Passed:
+-91
+-52
+
+Passed:
+-90
+38
+
+Passed:
+73
+97
+
+Passed:
+-48
+59
+
+Passed:
+-95
+41
+
++++ OK, passed 100 tests.
+Passed:
+Two 0 ""
+
+Passed:
+Two (-1) "s"
+
+Passed:
+Two 1 "\rn"
+
+Passed:
+Two (-2) "\EM"
+
+Passed:
+Two 3 "\149689X\SYN"
+
+Passed:
+Two 4 "M "
+
+Passed:
+Two (-2) ":L$"
+
+Passed:
+Two 6 "\34465"
+
+Passed:
+Two (-3) "H@\ETXu\157316)"
+
+Passed:
+Two (-7) "8\182755\&9\fi\1058671\1094780"
+
+Passed:
+Two 5 "\12508\EM#\ENQ"
+
+Passed:
+Two 2 "\55263~\US"
+
+Passed:
+Two 4 "9\1069837<\SYN\STX\NUL\1009955q\to"
+
+Passed:
+Two 12 "\vv3\1060230@R"
+
+Passed:
+Two (-6) "\1083915O\EOT'\"?(\1606\128384q1"
+
+Passed:
+Two 13 "^\1071655\SI\SUB\1024360\&4V$]\EMA\SO\CANM+"
+
+Passed:
+Two 1 ".B\155310A0\US\a\11788\1091188B"
+
+Passed:
+Two (-5) "\167178\SOl:=.t#\fa\SOo\NAKj\1038733J"
+
+Passed:
+Two (-7) "\1013232"
+
+Passed:
+Two 5 "DuA\US;\1039509Z"
+
+Passed:
+Two 14 "X\180982(,"
+
+Passed:
+Two 5 "\9680\156512\RS\992584\t\16791\n*W#eR\1027408"
+
+Passed:
+Two 17 "\44113?\EM\199466W2\FS\STX\154248|\ac\NUL\STX"
+
+Passed:
+Two (-1) "\RS^3b-\SO\ENQ\SOVc\1113707C\\\v\SUBY\SOs\n\29945x"
+
+Passed:
+Two (-6) "~E\1027241\&6h\1027617CY\155095K\1100524\vP\194647H\47800|4"
+
+Passed:
+Two (-5) "=\188893E\1019859Ob#\RSw\7482aSP~\r\1026207RB"
+
+Passed:
+Two 10 ""
+
+Passed:
+Two (-2) "\1074200=\992458\176616\983428wE\a8<\SI0\173203\&9\n8T\US[G>\ENQ?\1030624d"
+
+Passed:
+Two (-5) "o\DC1w=9E*2\135326\NUL`\170230\&9"
+
+Passed:
+Two (-24) "\144504\194686\15544E\993193\37749W\1051900V#\ETB\96458Y{z_\197399sW\1056394>\DEL"
+
+Passed:
+Two 18 "\DC1\SO\ETB4\DC4\1086998A\DC1a\RS\97569P\DC1Ny&,\72862H/\189174\n\ENQ$M~"
+
+Passed:
+Two (-24) "\vM3M\1086811e\39546\&8U\a>\ENQ\39580\EM]~\144580(n\1011193"
+
+Passed:
+Two 7 "s\1089424P"
+
+Passed:
+Two (-8) "\SYN7i94\DC2v\FSQ\1016748\98014if\32574\&9N\DC1\39532r\33139\GS\n\1079301K\190672"
+
+Passed:
+Two 29 "M\1049203\1038339\ENQ\DELp\b"
+
+Passed:
+Two 27 ""
+
+Passed:
+Two (-18) ""
+
+Passed:
+Two (-26) "_\1006307;\r\DC11H\DC3e<j\f2{\1030280\1007827"
+
+Passed:
+Two (-9) "y\1042428^eX\8680"
+
+Passed:
+Two 3 "\SI_\r!\DC4\186502R\202941\STX\1048299pC]\b\DC1_x\150956\&2\203622\"k?\ESC\a\GS~=9\ETB"
+
+Passed:
+Two (-11) "\1019585p\1044841|\179149O\132590=\101388\1007378\140146"
+
+Passed:
+Two (-15) "\RS\34049\1102997\136815\ACK= \149128I\148548\STX\CAN4"
+
+Passed:
+Two (-30) "\66372<^\r\r\GS\985340\\\172606e\1072410\&1%M"
+
+Passed:
+Two (-38) "\183087&\1075303w\b\US\187735S\194670_\1020170\NUL?cUr6\1036195\&9\73872F+\v\202784\96447\1043933j\ACK?\DC4\138721_\"OI"
+
+Passed:
+Two (-7) "8k)%zwt\46466\1041908\4939\SYNa\67117\NAKqC\DEL\DC2\1025511\158834`!0Z\20988#\SI\CAN"
+
+Passed:
+Two (-5) "T\EM\DEL\1010489\CAN&HO\1071625\172188\178737\1001921\23380\f\1009693\&1]-1O,\STX+T\1109409`x+\ETB\17241?d@~fj;R\1007994(\f\SUB"
+
+Passed:
+Two 44 "qV\GS;>r\1113815\31370\EOT\1012926\168679,<}Z\11424vkw`\28800T\997624\&4\1113606\1110722_Tv4\1055371Yo7<>\ESC"
+
+Passed:
+Two (-31) "\CANh\1012973k-\v\SYN\SUBO\RS\\\DLEV\DEL\b\50418\183138\1097053&\198018L0@L8=\t5}\60980\n\NAKj8nj\1087591\rug7I"
+
+Passed:
+Two 2 "\SIJ2\1060725\1051321Z#\1040408\200489\&1\DLE\ax%s(Qz\1032545\197763J\vP.~"
+
+Passed:
+Two 49 "\ACK~\1021702\DC2U\GS?s](\97075\71717~i\DC2\53587/\v\SUB~{\1036282SM\514=\b\DLEU8K~\EOT\1006565\1098714\&7v\120256"
+
+Passed:
+Two (-35) "\DC1;\51763\CANe\b\US["
+
+Passed:
+Two 14 ""
+
+Passed:
+Two (-23) "\b"
+
+Passed:
+Two 7 "\184808+x\FS\1077258\EM"
+
+Passed:
+Two 2 "P\1040310M\n\ba\176846\DEL\DLE\tpQ\CAN\1109755]e\aB\1107244by\b\t-\62088%:9Mh\100863F\SYNX\SYN\CANM\RSp\181386\&7"
+
+Passed:
+Two 46 "LU\b$j\FS\ACKl\DC2\\6\69413\&0\EOTX\DELD\DEL\b\97887\&0\SI]%L1\SI\1076909\b1\\\128747\24187`8\SI\1076149X)2\DC3\24029\38610]+\128455\DC2dT\23707\1036418x"
+
+Passed:
+Two 55 "!'\SUB\186357\t\140371)\1000803b\1021986\992025\188080\1005188I"
+
+Passed:
+Two (-41) "\a\SUBV"
+
+Passed:
+Two (-25) ".F\1074037\EOT\bZ'\tfa\54077\&2;b(uy;\1038983\201719&&\SYN\DC3q==si\EOT"
+
+Passed:
+Two 16 "\1063210\ETB\175593\6018\FS87\SOlo\11928\1005749$S`\\*\USoT!,,"
+
+Passed:
+Two (-5) "8\198734b\1068484\DC4\n97mb\EM\7671P\29427\&2X\1036713\SUBJ\1040574^\DEL\CANf\135324\63024X\DELt\1109338M\1030695y\SUBXZ\1085386X]\ETX"
+
+Passed:
+Two (-20) "VN\1009423\38717\158360\48876\fp\ACK3|\SUBa\SO\FS_+I'\RS\44501X\DC4-!\ETBK\983045\&4\fy\183043\1003597\&2\DC1\STX\1071613\1103177\&2\r\180280U\NULz\1007444ObT\1024386_zL](w\SUB\992992"
+
+Passed:
+Two 48 "\137707\1084578\157985\1112211\f~=#\148601\991819\987787\DC1&;G\70464Y[l\SOH"
+
+Passed:
+Two (-45) "\\,\FS]u\\h.\t\984955\DEL5\1003885M\a)*\100026N\1024368\ESC#P3\153160\191499\1092538\144051\199730\&9U\152894H\140985k\\`i\1050479\64427\DC1w\DLE\183151\\\128936\SO\ACK5P\1102514H\f\NAKT\1082521E"
+
+Passed:
+Two 0 "M)\DC3\17997I\999497%88+O\44636T\GS~j%z"
+
+Passed:
+Two (-27) "\37524\1025594\183502s\1040745.Q\\\ESC<e}Q\41763]l\143053\1007581G\162067|\1084975FvL'\131592\202894\CANgLm\SYN2\1091657TK\137945KET\184470\ESC>"
+
+Passed:
+Two (-37) "eoq|\1110774ce8(=m\EM\59475X\1103088\1005180''"
+
+Passed:
+Two (-53) "_IH\STX6|\DC2\164927\&4.]\120349q%\ETB_x\ENQb\GS\1026312%\b\"2V\189642ru\203229\"\DC4\165500=yv\1055859/+!\r\ESC\1011944u\98415zq88X"
+
+Passed:
+Two 1 " 4\987542\162698\995170N\n\1078019m\190413\RS4uh'4\1012354\CAN\988526\&5\49959\1015300\EOT\1112094\&8{Y\1081675?)j*\fz%q"
+
+Passed:
+Two (-23) "\1106370{\DELeJQ\1094144\NAKH:\1046939]#\23025\1052513\988560P\59839\&14=l\DC2`cQg@\1081266\&6<\1103658`"
+
+Passed:
+Two (-60) "B\205557Vs;RSf:Y\78655\&7\1093321}N\987960\STX)\SO\SYN7\1027571\&8cSJ#\1059336\1073210&\SYN8\187931COu\36507h_\EM\74956\DEL\52959\&6Et\ESC/M\41391\DC3"
+
+Passed:
+Two (-6) "\204643</A\994035!oE&\31459\95833\21738y\1069097~\50211=\1091170d\1056914\&5vn\14356\49032\185288\f\SI*\200527UF\20586"
+
+Passed:
+Two 57 "\ETBk\SOHZ\EMF\180169;\140038\RSio\69387\92867\1081129qw\tHujW,u`dZuc:\197619\DC2\1074769@N\SOd\197974B;]\SYNTCi1\ESCW<Kd\110805\995202?6\DLE\ENQm\63739\ETX|\ESC\NUL#7NZ\989422k\DC4"
+
+Passed:
+Two 13 "\997086\14576s\1084235\1078106e\1033968fvy[jn\1062111\10774\995957\144266\12286y+\1007549\v"
+
+Passed:
+Two 58 "\SUB?\983486\39160\NUL(\DC4M]\1060274~K\65908*|/>\1015961\DC2j4w4h(\SO\ENQOL\4399+\53435\1081353\SO\40764\136822M\192032\NUL\EOT\b\GS>N8\202272h<\69263\187923\25276z\1029353\166338'|9\48364"
+
+Passed:
+Two (-9) "tqd\1066250\&5W\66592\&4R`{{$tK6\159126\&7\150153|B\bO<"
+
+Passed:
+Two (-37) "\1012948\RSq\1080442@v\NUL^\984416l+\1064573\26972w\ACK39\74433\1080892\1067018R4\64520\187960\EOT\111113uyJ\1094248\DC3\DEL$ss"
+
+Passed:
+Two (-41) "5$\1090953W(s\SI3\170062\ag\1034344\7381d6I\138605U&`X\189489\1023830\&8y2\1096422VM]=$@\1109400\990332/\ESC3nK&\143434\167980h`.M\ACK\119261\SUB\142215\188844\1102169\EOTFr\NAK\1011577Jr"
+
+Passed:
+Two (-9) "s\121374Lt\a\v;\989213l].m}?f\FS\SUB0p\154269\&89#X\1000660:=+\167956\EM\1040769\NUL\SO`w\ETXRS\1002600\1001164>\a1\131328\128959&@ij+\164441[,\ESC\63470\&8\1015584:#/Vn\1105871\173994"
+
+Passed:
+Two 37 "\1018898\164734\156509\144927\RS\SYN\CANB\ETXlP,_\1076794r\143823[>\992693K\SO70f(\39333@\12712\r(\17240\EOTq9,\65491I_\DLE\ay\1097960@[6E:Fo\37195U9\1053632?&^\1051439]B\t\33243a%tt1\1019766\ESC2\RS~@l\1020552%"
+
+Passed:
+Two 52 "\1110803?g\1101301\73869)\1113697.=\DC1\187550\34598 \STX\\vn\7605\197048\1013460\1018125\SO\ETB1\1050337,k`<\10398\1013005\ESC|4\1050876\US\25119\"\1092270!a"
+
+Passed:
+Two 34 "\ESC>G\FSr\RS\69578\aI:\"\180299\1023809\59348\NULe\41089x\DC3\CAN7o6\158791\1044736\58404E\SUB\SO\15431\131150\49329\10801H|\1088182\&8j;A\1001836`O-\1058486>C\SUBE\1088122\154759\USTF\NAKP'z;@Y\22869X\RS6"
+
+Passed:
+Two 81 "VL\1033637\fC\1089144\&9\1041078\DLE"
+
+Passed:
+Two (-53) "t/\n\99449\b\FSk\DLE\ETX\77992Im\EOT\202055?WA982;8u\SUB\1026464\EOT}6\DC1\DC3\tK\58749j&fKgQ\1043448"
+
+Passed:
+Two 65 "V=>\161266mKi|\FS\RS\SUBA\1022245\ETXu2Y\1085197.Y\\\CAN$\14605`\1049212\984165~\ACK\1016497iI-\8739\27108>hE6\GS\SI.|ZJ\nQG:\DELe\3901if-\1105528KZ\1037258\ACK\142964\94375\ACK\986983\1060650Qo\ETX+?\63547\172748\DC1D\STX\DEL[\DC3vx"
+
+Passed:
+Two 82 "\\S\DC3X\47365jq\1030575yH\177541= |Y\148537G\1105254\&5\177507\GS\DEL4\SO"
+
+Passed:
+Two 38 "\37976?\78568^O)\1099633Fq\1814\ESCI<}\DEL\1041784ds\EM(4\FS\NUL\t\61267;\160597AV\t\1078104\DEL@aw8\DC1NS\DELqJ\41341)\SYNm\165711\NAK\EOT\NULt\EOT1\v^E\STX\NUL\98654\&9\EM\\:"
+
+Passed:
+Two (-8) "&C\1066375Mh\133072\US7V\1015389\&7L\1036224\179548of\1005660\2183\&6\197055j\ACK\173969\EOT>\1027856\1086496YnU\1097549mKu-\202279\185001K\995102\11233\STX\vwN\139426\1028487Z5\n\\a: w5\1025143\58225\1064511\1078127u\USX\1035391\67882\1067095"
+
+Passed:
+Two (-43) "\nhu}Rl\24359\49778\1107988)\177413G`\RS\128876\f\DC2b1\SUB\STX\198614:~[g\SYN\2438KmI\SI\179666\DC1\1079764'&I\1011703'R\158460\r\CANxa@Sp_\6340)\DC2\984836Dm\ACKO7u\a\4471!E\156602mvQ\"]\188173\1095114\b;J7\204518\46589\fc\r\t\1025603\78826*"
+
+Passed:
+Two 83 "\EOTUh\45553\EM\a0B\ETB=#M\20682J\SUB\1057573N\1077657\DC3\1048566\30870\1100377\&7\998631\24454c\EM\ETXfDm\FS&RrHsUT\f\1029898-\1073421ib\1057662"
+
+Passed:
+Two 61 "K\198039bY:\1001275\GS\1037655"
+
+Passed:
+Two (-83) "\1046582\201974\1094174i\SOH\993361Y\1012475x\GSq\EMpK\153812\&4\201671l:\DC3\SIe\985062L\CAN\11721\1030432=\DC3\21980\"j)vm>\SI\n9NQj"
+
+Passed:
+Two (-71) "n]\ETX\CAN%\EOT^~Fj- aC\ACK#\1048583\&5|:C\63830\&9\41206\985696:.\ESCo\SYN''7\SYN\b_kp\37688idZ\DC3[\25553\ACK\b\tIe\FS78X!gb\DC4h8\31993\GS9s\ETB\188290,(t"
+
+Passed:
+Two (-22) "$\a:bz\DC3,Dh'(( \1048537_:\1039387)SY;\SUB\STX\1078901\&3j\132966\a^)\35047f0-\GS\170966x1\257l\US|>Q6qcV\DC2*g\174647cE6^\"NElNF`\"j"
+
+Passed:
+Two (-51) "\a\b\SOH:;\1034778\1100820W\61309nGq5W\1100278\15565#\EOTG\138897\SUBr^'\STXe\DC3~xg\997984\43381\ESC\ESC\162508h\1072400m<su\64095baT\NUL\1088344e\DEL!"
+
+Passed:
+Two (-82) "B\DELs|\16311\59188\DC2\64617\"N0a$\1067414%\FS\DC1\161624]nO\137228Eh\20109\t\38470\NULJ>QIiB6T#Y/\183771\DLEQ\a\DLEkJ\ESC\1017563i%EpV\1054352\SOHwm\18451I5\ACK\97823\SUBO"
+
+Passed:
+Two (-22) "\SUB\SYN\SUB\18003b\204206V\42011 O\9426\FSW}\37697Ap\n_\a\NULY\38424\1069647~|.\201371V\44279.\DC3\125107;\144866:u\GS\61985\&67|\63044\191371~\11990?\NUL\GS\DEL?\1068454u\b%\993376MB\CAN\119665h\74548Yx*>\159026T~\DC4\DC45\19184T\61540J~}_\37938.r"
+
+Passed:
+Two 7 "\1068431\EOTp\1047059\&1\1046770B\FS\1070965_\SI\1046479UIS?!\CAN/\1062683\97678\1017733\EOT\RS \RS\ESC\ESClr\1024449+is\SYNX\163908\ACK?\44241\&2\191379bk\1015036)"
+
+Passed:
+Two (-90) "G\161729\&3\1016501J\\q(/\ETB\RS\983368\r\74143T\1109406V\STX\1107285d\126095w`\STX:\ENQl2"
+
+Passed:
+Two 75 "\1049428\1026310\STX-\39373 "
+
++++ OK, passed 100 tests.
+Passed:
+""
+0
+
+Passed:
+""
+0
+
+Passed:
+"]\60059"
+-2
+
+Passed:
+"\1035109\ESC"
+2
+
+Passed:
+"D7\US"
+-1
+
+Passed:
+"\DC1"
+-2
+
+Passed:
+"H\1060606"
+0
+
+Passed:
+"\GSp"
+3
+
+Passed:
+"\".\ENQ0"
+8
+
+Passed:
+"\1000946\182753{`"
+2
+
+Passed:
+"\1054997%pjyW\21028"
+-9
+
+Passed:
+"M\STX\999900T\ETX\US"
+-7
+
+Passed:
+"1O&"
+-8
+
+Passed:
+"1"
+-9
+
+Passed:
+""
+8
+
+Passed:
+"\DC4Q\b\1052348\EM\NUL"
+-3
+
+Passed:
+"\ETXw\1010914\&5\988957\EOT"
+16
+
+Passed:
+"QZlp\1027047F2"
+15
+
+Passed:
+"#\EM:e\"\1105752L\1039568\ENQy\37571\1025544\&5"
+-15
+
+Passed:
+"|9g\68666\1102262 X\151603\SUBqN"
+6
+
+Passed:
+"\143514\aK\994392"
+-18
+
+Passed:
+"K.\ETX$\1113973d\1109918\119241\49398vB\984585"
+-5
+
+Passed:
+"R1T\nf"
+-22
+
+Passed:
+"\65916?\5863\57976\5659R2\ENQ\181241\190880\&5\20481\5445J\f\1100096\CAN\n\1035502"
+12
+
+Passed:
+"!Zj"
+-10
+
+Passed:
+"E\n\RS\DC2W\DC42w\50150\NUL\1002315A$:F3\1025885>=5hJ\1096523"
+14
+
+Passed:
+"e+,\1080864RG9\SO]"
+-13
+
+Passed:
+""
+18
+
+Passed:
+"=\141246\1003017\&7\1018016\45833#\1076651\141176\STX\RS"
+26
+
+Passed:
+"`Mb"
+-29
+
+Passed:
+"\SYN:\1089918\989809m*()\151378\"g\990476"
+-28
+
+Passed:
+"\f`;\28713\&5)\59852\ENQ\96803`"
+12
+
+Passed:
+"\SO4\48063r%d\1041210\146623\r~\1032048\f\ETXE5m\ACK\SIOh\129368K\1050084\ACK\SYNF\135125\989753\1096177\191259g\GS"
+30
+
+Passed:
+"C]a\ETB\1096237?n\190720\186306\1057375I+\US\DC1\1017448]\983286(\144558\US\1059472\1048398"
+3
+
+Passed:
+"B\176403^\SO\202344;\r .3\97688)\EM\a}>I\1000089\&2(\r\ESCut\RSV\1104156\DC1/A"
+14
+
+Passed:
+"jImi<)Q6a\b\1050235"
+-17
+
+Passed:
+"\v1l@AM\DC3f *\1060426\1060019A\190178\&5s4\DELk!lE\FS\183012\ETB\b\61877_\\_\NAK='\1069655"
+-24
+
+Passed:
+"\EOTVJ@q^\133715|\992771D#*\187379\&2\1021070"
+13
+
+Passed:
+"\1037316\DC3\RS\ETBM'N+S(j(\\\9119b\158525\&5@\185387~WY+:\1082635!s2\1023252fL!\60037"
+11
+
+Passed:
+"m05\1007008Bkvk(9\DC1\\B\EOT2<\ENQV"
+-4
+
+Passed:
+"*\1109743a\17725\SO\GS\42283Qm\SOH\157985BA\61969\SI\39816v"
+7
+
+Passed:
+"\73683UzR\6722&\ETX\55000"
+35
+
+Passed:
+"q%A*\ESC\1092819:\t\DEL\41259\998081m\1083002`\37264v/M\174857[7\98577}s]\99472"
+31
+
+Passed:
+".K%\RSI\"ys\ESC\1085160\SOHL\1027091"
+-7
+
+Passed:
+"9\a"
+-20
+
+Passed:
+"\17293\SI\1034960y4\164421G\173760\ACKqg\STX\172637\DC1\1019958v\59234\r\f\ETB\1094175\1100277\SI^\141334\DELi\ETBO\FSg\DC2xM\140359\1087331k"
+28
+
+Passed:
+"Rz\DC2\txK3ma\991879\1041272W,\1095738\147963\69565\20276\1064578-^\DC4h\1088048day\1082442jx\1024887r.-\r\SOH"
+-41
+
+Passed:
+"\SUBP\38242\NAK\990429\202472\CAN\v!@FM^\"F\USJ<\US"
+41
+
+Passed:
+"A\ACK\29695\18317|O\139893\ENQ+[\1007366\RSUh\SYN\174138sb^7\1009247Mv\ru\24425\45426\127473\SOHZ:QB\SO6\t\1046735G]N\4401\12040\1061846\23902\997965\52853 \1042310"
+3
+
+Passed:
+"2\69935\29113-r\EM\1100790\&6aO<lo\1052268&\DC1"
+-41
+
+Passed:
+"anM"
+-24
+
+Passed:
+"u\26080\147750^A=e\USk4(\1044525/\171969\&6L\ESC2ow\vY\14565{-\1060478\1002219o\GSP_w\USs[\185166\1075440\nR\DC4"
+15
+
+Passed:
+"}I\DC1Pi#y.\\xY[\1093139P+9\SI\1107986\ETB$B \187936Ql\43629@\ACKb\ESC\DLE"
+-40
+
+Passed:
+"El\147318U"
+15
+
+Passed:
+"\26260\\P\1089162\r1b\1045144\21679\1101360\DLE\1067142\EOT\SUB2\64640\1065343&\64798q\22123\n\"L\rc%\DC1R\ACK.\1092394z_+\53416\1100858\20537l"
+29
+
+Passed:
+"'i?Cpby\SYN\43832\NAK\US\ETX\158858\993280\96767\r,\1065070tt5y"
+-6
+
+Passed:
+"\ETX\SYNO\147647rI\ETB\NUL\rd\22219\19927\a\1014816\101360*$\ETX\t\1093282\f2\SI|"
+-11
+
+Passed:
+"O\DC4F\1076436\ETB\SI=\96571\v\US\ACK\62608\NAK\997924)S\\\"\148971"
+57
+
+Passed:
+"m1F"
+5
+
+Passed:
+"|3\GS\1064838|\DC2\DC3;&:\ETX\1082011\ETX\CAN|<\18194\STX\SUB\aP}\SO\"h\1108220\&2\1014193V`<x\DC1\31736\CAN6Ouz\CAN\DEL\FS~[\DC3Ig"
+-36
+
+Passed:
+"\155952\122988\n\FS)\aFG\fB\NAK\US0:\EOT\101336\1082386J4,\aU.\1060396;x{TAn;(T@\10881\&8"
+-52
+
+Passed:
+"I\ap\1069719\154163L]\990881=>\a\1096147g\1073385Hg\68196\1102756'"
+16
+
+Passed:
+"wm\DC2B\EM\v\"\FS\12049Xx\DC4*?\99970\vs\200774\"?M\\\134641@A\158769V$\ENQ\NAKv\DC3%VZmSf\FS\DELx\tb\198149\1090777\1004094\149479c>\40830H\1001048ts\175640\95346\&2^\1049748"
+-1
+
+Passed:
+"\1027129?L\CAN,\1073758"
+-44
+
+Passed:
+"\FS,\27205Vu\ACKbX\CAN?;\199130KJ\1054811%7\97161\1022994wm\131972\2926l'D\1105509w\1095945uF\137374k&\1099693aJ1T3\DC1xC\998796>\DLE7\1061232}sEN\984273\97508J\1055329\EOT"
+-52
+
+Passed:
+"C"
+-39
+
+Passed:
+"\998552\DC3\55243/\1458D\1100601Uh\r\61375ymv|R\DC3\SO\\\DC3wZ.:\aL\47285~Q\74304\&6\1010378\&5\EOT\SOH@\1091240(h39dV}\1060087O+[\200228\38032"
+66
+
+Passed:
+"\1034986\1013721\&2\EOTZ2\\s\1110664\b+\189055X\t\NAK*(LCz\985875\GS\1065806{\44629E!\1069761\111206uZC*Nx\162258%Y\1080320\46546QC{\78104+D\bj\b\ETX)-\47299[\1053869J"
+-53
+
+Passed:
+""
+21
+
+Passed:
+"u\55161i\26767H\DEL\b\RS\DC4@\NUL\173001,\1088344xb\US\DLE\1099442\1080392\DC1\"\196953\52458a\1047705\f7d\1091091\1088305m;ZyG[a\162602mpo&D"
+3
+
+Passed:
+"ZM\1050161b\62954B\1021339\46984\f\a\19589R,\134955\1034061R\US\RS\NAK>\1094978\FSWA\v\bf~\ETB2\NAK=v]Z@\ACK%\t\DC1\a\DC2M\1086730\&6O\ESC\152923\DELb\52861\SUB1_)\1107578\1007965M"
+-1
+
+Passed:
+"\FS\61474\1052396C\35480\67506i\CAN\148300\feN\SUB\46922'\DC2\DC3n\\d\173395\1027210"
+42
+
+Passed:
+"\26898G\985676g\32659,\USh\DC4j@\ENQ\DELC|`\ETB\182444U\STX~\182927\190864\&8\f=X\1024935/\995357\RS8-\r\DC2\ETX"
+-57
+
+Passed:
+"\US4'\61350+\1067585\993417oyU]FRW'\ETX\EMI(\n7%\23697\b$wT^/\ESC\1025166o4C#\128329U\39958?MK85]q"
+-47
+
+Passed:
+"\NAK\159279v\181055\1079003\NULg1\r\STXw.\1058057W\1094309\GSW\18440j\NAKp[\"\1007913\ESC}|\DC3D9\b&\ETB?2\1028765h6tN\27395\67676,\DC4\1021372L)\1052068I\997865<cfVC\205297H/\68477s"
+-21
+
+Passed:
+"\40174ZuM\1049541Xs\1103426'\v\ESC%b\143717 \\\44729edM'"
+-47
+
+Passed:
+"\1097783\167179\1090566\1068570\&2H,{^\NULFQT\f\DLE8\ESC\96198u\ENQdg\r\1100367EL\SOH\fII\STX5$\95081\v\SUB\1109750@+ `\71698\1089821*@\\!@\EOT'~E%P\CAN5T|Y"
+-58
+
+Passed:
+"\v$i1\74542;-&H 9J8Yl\SYN\fF\1111758O^\1081708\&4_\140724}"
+29
+
+Passed:
+"\a\1022029`<k\1035366\9660\DC3\b8\1029788\1039502\1074733O4\199178fy\RSN"
+11
+
+Passed:
+"\184061sG\NULI\b\1045673\202058\&5"
+-9
+
+Passed:
+"\1046888\SO\r)\191843"
+24
+
+Passed:
+"y\t\1075003\1066754$\2503\150938m*&\1065247\168202w\1106736\204796W\2567F\1053607BE,\DC4\NAK\1034856\&8()\147290\1034101,*_\1027522q\30487c\46819[m"
+53
+
+Passed:
+"F\47975\161822)H^\NUL4\1014808\62734A\7092\27119*+B\142244^W\SIQJz\SI\CAN_p&D\DC3\1068460\21651\&2cZd\35750K\154884"
+65
+
+Passed:
+"tzk-XP\FS\1065574\1097524\US\NUL/[.\SI\SI\DEL\EOTBcIN\1099048\1055781\ESC?\14575X"
+19
+
+Passed:
+"\EM\EOTx\USrl\173942A50|u\NULc\1085148{\GSR\1040587"
+52
+
+Passed:
+"\11239=\1109312wR]^\EML\RS\1097558\DLE\ESC\\`F\ESC4\ESC\984085\&6\48352U\SOHJ\ETB\189270\1106515o\EOTyQ(\EM:)\ENQ\ETB0u\66714\1018882w\123610FT\1014116A\196657\NULzz\196698\DC3\145196\24318\DC4\NAK} q%\CAN\1051270\1052069w3\RS-\145120"
+-34
+
+Passed:
+"\RSY\1059864\&0N_\STXM\SO&\\1.C\13345!\n*\SO]\SO1lnwU\995032^eQ\155035pT=m\1006022)+K\1091430,R\1071212b7\159074D_\US\7346\1106862a\DC3!w1P\155030\1063562?\16086cO\22046'\RSiY"
+56
+
+Passed:
+"OE@p\SIP\r%LL\205056\998329\181191f?\64671#USK\1014206\15431\&7\24824\&83\1074880\1096884"
+51
+
+Passed:
+"\CANRVm\r\US"
+69
+
+Passed:
+"d\194588U=\\W\41261\67351!\ACK!x9\1066765~E\1084852\999195n\ETB:?GB(\19730\92795yp"
+-30
+
+Passed:
+"\9773\EOT.nTEfCr\NAKF\ng\48300\DC3Jq\98629\a\SYN=1\992233<\1107497\177945\bxYQ\1097993\CAN\61330S-\1072697x\199320:mg\191903D\120099#Ik\22453>Y"
+-43
+
+Passed:
+"\RSO+hm\97713\SIPRBeOZ\177308\37780\1081785\ACK\128936jO\30657\1055145\ESC2\144649Se\987332ER\DC1>\ENQ^\1051155P]\GSm\GS'b\USNZIN\1051010\54843\f~\STXV\SYN\ACK"
+-18
+
+Passed:
+"I\1055298P \DLE-|\1021299Cq>\"\DC2\GS\2366\28774\&81\EOT\SUB\1044363_\rX<A\DC17\ETXc\ENQ\141775\CAN2[o\1018140+U\SO\NUL\151068`?nm\1009175\11268\1038461!\1039406\DC3?\35325o\DC2\DC1=\SOH\SUB\a/\1024657\f\128220\1032986\\;e.!\ESC\190639G\FSp\78087w?rt\DC3\GS\SOK\DC3"
+-80
+
+Passed:
+"\1066971\1001603\GS\baN\1066955\ACKR\\\22644ya`\1079137ec\33743'<t\171959jH$\1110058,9RM\NUL\USX=\1018697\\\DC1\FS\"u\137950"
+55
+
+Passed:
+"N\1037722"
+62
+
+Passed:
+"\7515f\SUB\SUB\1004886am4\RSIb\SI"
+-65
+
+Passed:
+"5\165421!\1065147M\DELm[pj"
+38
+
+Passed:
+"\1102469\&5;2\54061\1001925\DC3GV\46370\1085040\f\38862e\NAKc\71206p[\988196$\177646\1099942\"\36811\vaT\202750\119528{AS~mTwk\42153\59094\ESC\152184\&4\ACK8m%f"
+-19
+
+Passed:
+"_\DEL\GS/\1104174\154582 \150814IJ\1045664\1014918t\STXPT\bD\1013059="
+26
+
+Passed:
+"\RS\SYNO\1043407GX\SUB(\FS\DC2\1006645\SI\160373axZc$Q\t\31507\74350\194668;?+\1036856\SOHNR\1064723\&0\22720D\DLE\40502rD\182960\f1I\197348E ~\189034K{\1080702?\20797N\EM\143255\EMI )\ACK\1045471r\ESC\989538\996870q5Q&b\SOH2\ACK\185418Oz\188249\&6\SOH\STX\FS\t\996319L\75043\ENQ4RG;\1030105 "
+-33
+
++++ OK, passed 100 tests.
+Passed:
+Three 0 "" '3'
+
+Passed:
+Three 1 "\1035685" '\EOT'
+
+Passed:
+Three 1 "." '\''
+
+Passed:
+Three 0 "" '\n'
+
+Passed:
+Three 4 ":R\1040767" '+'
+
+Passed:
+Three 1 "R\167132" '\SO'
+
+Passed:
+Three (-1) "\1064035" 'g'
+
+Passed:
+Three (-5) "\FS\DLE=+4\69443z" 'n'
+
+Passed:
+Three (-3) ")\171871" '\1023348'
+
+Passed:
+Three (-7) "\146500I\a-\62443\153834" '_'
+
+Passed:
+Three (-9) "\174237D7&" 'I'
+
+Passed:
+Three 8 "N\26403\ENQ#(\NUL\1021288" '\ESC'
+
+Passed:
+Three (-6) "\DLE\ENQx7A\CAN" '\EOT'
+
+Passed:
+Three 5 "c\53258<\60555\49363fK(}6'" '\b'
+
+Passed:
+Three (-9) "bP\154367" '`'
+
+Passed:
+Three (-4) "\1028249\SOHG\188179\ENQ\SO?f\EMWW\r\39714\183119q" 'G'
+
+Passed:
+Three 13 "p\1025258K\1040773\176679/" '\205465'
+
+Passed:
+Three 0 "\161591;$4" '+'
+
+Passed:
+Three 15 "\EOTI*\1065626\1029451Z48\1060079\DC2f\37094\DC3\169531" '&'
+
+Passed:
+Three 19 "G\CAN" '|'
+
+Passed:
+Three 14 "\1046252\vrc,\19453/\17749" '\1070885'
+
+Passed:
+Three 1 "X\173594g\36320\DC1\ENQ\1006636%,\22567\GS/\1067273;\996520\161951\SOH" '\1002598'
+
+Passed:
+Three 6 "\1096354Ov\59212k" '\200784'
+
+Passed:
+Three (-22) "\134849S~H\39598\173422\DC1i8W8\2205\DC2\66685=Z\61121XHRV" 'n'
+
+Passed:
+Three 0 "\DLE\158444W\1107346{" '}'
+
+Passed:
+Three 20 "\1026617|\28381:\USO\1107566IS\161744\af\SUB\\.E\SOH" '\1111616'
+
+Passed:
+Three (-3) "\\\SI\r\1003951\r&o\175402\SOH" '"'
+
+Passed:
+Three 25 "{.\129982E\149233\58478\1025647\148163\988943\1047648oi>IQ\rc" '9'
+
+Passed:
+Three 17 "\DLE\1094372\DC1o)\41586\1095025\FS@dN0\159618" '\1091700'
+
+Passed:
+Three (-4) "5" '\ACK'
+
+Passed:
+Three (-7) "\18903.\DC2@\US\167389~5\42539\1074968\1094594b%cze\1076631" 'V'
+
+Passed:
+Three (-21) "`\CANWS8\abv6b\2336\1014552'\\\DC3y\r\1036664\&7\FS\CANK\NUL" '\1069910'
+
+Passed:
+Three (-25) "H^\1061857\53632B%>\CAN\1011787\DC2\143651-DF#Y\SUB\1074633E" 'b'
+
+Passed:
+Three 4 "g$Q\DC2,\US\n\34031:\174621" '\203805'
+
+Passed:
+Three 5 " }\61205]JrU" 'b'
+
+Passed:
+Three 0 "q=.P" 'e'
+
+Passed:
+Three 5 " \998725'\41153\\p!f\7864s\1017614a\182119\1076747\67717\1089862\202824w" '$'
+
+Passed:
+Three (-13) "\SI'\al4N6m+c\983170\SYN\16281CW\DC1z\18187vw\189024;@\EMK[\EM\1034866Ei" '\1093640'
+
+Passed:
+Three 5 "6\fK\r" '_'
+
+Passed:
+Three (-36) "'V\DC3\177872|\DELv\FS&|o\1044421\DC1\144464\14860M\1083943S\1026710^2\162845\144577n#" 'B'
+
+Passed:
+Three (-20) ")\DELz:6\1069010b\DC2\1088229\183904\&2>\181758" '.'
+
+Passed:
+Three 37 "\DEL[\ACK\121037\DLEeT\1043737l3\DC3M\143783\&1\131902\NAK\b2=\ETB'L&7 \1020016{42\RS\US\SO\SO" '\1034317'
+
+Passed:
+Three (-8) "\198877\US\r$\SOH0\935\DC3\1073757 a'\DC4x\\" '8'
+
+Passed:
+Three (-20) "\f\1038331$v\NAKOM\ENQ\99166\DC3\36852\1005234}s-\1103618\1109639\ETB\bv%\SYN\7001!5_GCoC" '\153446'
+
+Passed:
+Three (-28) "\182559\178533\&7\26026%\995564\1044897\&0\148561\1069255\STXHq\RS\148580f\ACKr\b\49246E\STX" '\68650'
+
+Passed:
+Three 35 "\1069798CUo:\1057166\&7O\ENQ\15525p9\t\1002715\179945a3\SI\1049875L\190893=|\tqR7.\59096\99164R\SUB\42876XR\RS" '|'
+
+Passed:
+Three 26 "y\118977\a\1036138\US\184392\52706Y5g\RS\1051379z,)" 'H'
+
+Passed:
+Three (-12) "+\USy\DC3+#\136705/5;]\78163\126214VAC'q\1081712^\1026101\1092958,\DELli\1060955:#|I\996515\160619f\"\1106927GX\f@^A" 'x'
+
+Passed:
+Three (-6) "\ETXze*9\RS\NULwo\20721\r&~3(mQ@[\1101021\175040\45156\74384\&8$\190656\DC4\1011273I" '2'
+
+Passed:
+Three 1 " \28899(" 'i'
+
+Passed:
+Three (-9) "S-\ETB\18119!/\36630\&4~\1055678\aE}|Q\STX\150080$\999468l)r\EOT\ESC" 'A'
+
+Passed:
+Three 3 "\1063738b$\1065811\ETB|\1079737" '\''
+
+Passed:
+Three 23 "MA?~|Y_0!\55024\STX\1070185\SOO't\SYNq\194789n.IQC\1008547Xylms$" '\SUB'
+
+Passed:
+Three (-46) "7q>,\1009707\&96\74072\FS\"jm\1060087~r7\DC2\DC1Z+bc#J\1011544-\4633\133480\32468\DEL\STX|@\RS\STXV\ETBe\STX\SYN7J0N\141003`\CAN7." '\166440'
+
+Passed:
+Three (-22) "\1095934*H\17342\&7!\ETX\1075150R]L:a\100670\DC1m}\b\FSt;\1008072\NULf\ENQ*\17350HyQ\DC3\rw\989092\141558\186082\&4)&2N\1026905\1029682@p(l%j;\1044147Dl\EM" '['
+
+Passed:
+Three 9 "E" 'Q'
+
+Passed:
+Three 2 "U\1007800jj\1089495\FSTEDT\SYN}:\4266\SYNrl%!,\185851E(+\1040171$\NULL1\190919\"\STXY+\69935\SUBHS\"\1065729<#-\US\DC1,D\1013700\DC4\SYN" '\1005244'
+
+Passed:
+Three (-48) "wmpf\NAK\STX\trkQ\54581\1035104\1055921\68619\43931\1090549\&6" '\SOH'
+
+Passed:
+Three (-7) "Q\8530\&7\US\984020\1047327Z;a\1042486V\DC3i\DC1\54235a\t\1107346D'F" '}'
+
+Passed:
+Three (-20) "\179355/J{\RS\ESC\202702\1045999\SYNqvCU\1051207L\1010000\1052676k\US\983976r\49295&vbfm`5\DC1#&,i \162308\42682,\1029390nU\1072121" '{'
+
+Passed:
+Three (-10) "+kY::8!\ETXC|x\1098811c\US\92482\21513_\989299" '\ETX'
+
+Passed:
+Three (-51) "\1072274s\RS\GS\1051847\STX\1093402$\ACK" '\STX'
+
+Passed:
+Three 46 "@F\1050517?\6957A" 's'
+
+Passed:
+Three (-13) "\1020503\&7\62087,`\v\997844\65741s+wKCpw\135853EK\ESCk?v\181413\ETXy\1087195g,q\DLE\tAk\1110116\ETB" '\FS'
+
+Passed:
+Three (-12) "o-3?\15166r\\\DLE\203096z\t?\21228+A" '"'
+
+Passed:
+Three 42 "\1044841\DC4\1005220\SO_hXT\191254d\150410\&9R\DEL}\1088112\997470k\CAN\49529\10324\1055612x2?b\ETB\fqjz\SOH\"y\1012677\&4\RSB" '$'
+
+Passed:
+Three 6 "\NAK\ETX\1066865\1088081\ACK\1075745\&9d9n," '\US'
+
+Passed:
+Three 0 "7" 'G'
+
+Passed:
+Three 61 ",i\SYN\145623v\CAN\992230Y@N-\SYN\1056030\1092605\176371<\ETX\DC47n\SO4(s\1070630\1091545g\1089263\DEL\1098967?ND\US}\145905b\1041017_\SUB6a\SI\1093411\FS\191533\DC4T-`>k\1097081\STX?e" 'm'
+
+Passed:
+Three 40 "[}Jj(m\RS\45322\1022121u\SOHjH_z\62153" '4'
+
+Passed:
+Three 7 "r.n>\1077926%\b1Lxv)\1025198$\93065\1111746z\f\1036478\1042195ag\169972\SUB ry\f\ACK\GSw\CAN\SOH\10741\20557\1025167)\SO)6e\GS%+\1014625\136476\t\199727\2433\54376t2mD" '\r'
+
+Passed:
+Three (-44) "Y" 'Q'
+
+Passed:
+Three 56 "\989997\181942n\SOH\34463\ENQ" 'u'
+
+Passed:
+Three 72 "iKO" 'q'
+
+Passed:
+Three 58 "kE\174985{b\189275>N\143525\1053629`\ENQ\FSR\ENQ\152993~\FS7\ESC;\1004155\FS\DLE<\DC1\1096938\SYN\DEL\985570hg#9Eg\196974,\1113181\1083163\&5\64620\SOH\STXP)" '\136278'
+
+Passed:
+Three 16 "0\STXd\165942h\165729\16732<I\DC2N\985038\NUL\\N\US\1079204\b80\52329\191765 !\988646\\\196835n}<\204498\160844\1022175iV0Rz$<\1092461HX\997084R\1092043\1010573Z*\43781F\ETXe\189207Fkc2q" 'Z'
+
+Passed:
+Three 15 ".\989676\RS,p\ETB\150425?\1010184@\197426? Bo{]\DC4\1040860\988414\ETX\STX6H4 %\197725\NUL\155184/4w0`ar)\1098404\SI?\1058721\1064406\DC4" '6'
+
+Passed:
+Three 27 "\ESC./'xL\SUB\59957\SO\ESC+|\DLEl\95173L\EMB-*ai\DEL\RS\1091738\DELY\CAN1F?f\EM})2\1064079w|\1022910ax\f\140189NO\142434TPs\998798\23896\&3!{\11491}\92645\r!p\DLE\28433\DC2\STX\"5\b\DC2`\1088401" 'B'
+
+Passed:
+Three (-34) "\146572T\ETXM\163725O:c" '\69914'
+
+Passed:
+Three 13 "\US\1061164\156182f\1031969\&3\1100727\ACKMH\ETB\RSRk\1055047\vcfzFs\169605\t\CAN\ESC;o\vtWQ\ENQc\SUBr\ESC" '\163753'
+
+Passed:
+Three (-52) "\ESCKy\1047536\1068039\1080153*\140956\94044_\163755{\EOT\CAN\b!\994331_~\992045\1029671\r{\169033D\203899kg\RS\FS\183946!& \135131\SI^2\25541:\"\1560x\1056402W\1009708L\DEL\"F/\b\1080764\1076716\46635\1071941mLKk\998033r\DC3\1011961cMpL" '\1109428'
+
+Passed:
+Three 40 "/K4\RS\142922\ACK\b\a*YK!\133068\&3qZ\SO@\186717w\16446\n#\"\186285\992424\155332\1023698Of-\132697\137966O0j\1088803\198339\1091948\119591#~\SO\17956R\1047766\198530\147714\1014694\SO-\145578& =6q\ESCSw\rO\35034\205477`" '\1020055'
+
+Passed:
+Three (-18) "&\1078117\1112673&CM\98922.Le[\175856Z\198833>%kNh" '8'
+
+Passed:
+Three (-31) "\121321\155041N\GS[\EM\11946oC\1078867\50950\DC3\174273M^\1049767<lI\161883\t\1043671\197851" '4'
+
+Passed:
+Three 13 "P?\94100ChQ\1003029\&3\28834\&6L3p:T*\SUB\CAN&U\204360\177430+;+\985176\n:\\!\1048212\EOT|\CAN\59959\v\1003811.:\"\186080bu&L\US%AF\1089982\ttA\996998l\173257\&9i}\37123.\n\SO\1091424J\SI\1029635\SUB\1095175\989154Z8" '\DC1'
+
+Passed:
+Three 44 "* SZ\1046743U{((\v\n\a\EMzu~B\59626r\b\1003233\SO<\1034978+m\12621:\171701\156394\ETB\ACKuQ=5c`\ESCQ$t\DC4\DC3Rj\67221`\1049792\172793\1109360`\FS<&\27628E8{\24863\204958\CANk\1049741;<t+\142422" 'f'
+
+Passed:
+Three 62 "\32028\DC3\RS\ACK\152089\STX\RS\DC1>\ACKl\SUB\1064386l\46416\DC4 \STXe\DC3\1041009t}\ACKoL\121260D\179141\CAN\991202h]\1022278\147037\1007940]\f;mq\1016709)\SYN\140369" '\b'
+
+Passed:
+Three (-77) "!vu\156886!\1014519\1105473ys\SI.\1100086\ACKJ\v\NUL5[a\35765\ETB3s\SIl`95eCWD~h\1012212]\1059901\137162" '|'
+
+Passed:
+Three 40 "e\1051688HGn-\FSzY\5750^,4\1022819\6597Fg|13\989657~O\r\71840\GS\1035168Ht\\\133857\1112086\11343\1050583vO\ENQb" '\SUB'
+
+Passed:
+Three 37 "\50059w\SUBK2\NUL\CANeJa\1011600\FS\t8<o\1073384.E\\\1077675\DC1\ESCI\ESC1\1030279\&4<G\990385\a_);l)\DC4\NAK{U\SOHg*p*\167020=+\1097879\&1:\DC44Wk\1092651U" '\ETB'
+
+Passed:
+Three 22 "3A\1051158\"CP)&\n \990299\&3\1092290p\US\13302\202711NP\US" '\v'
+
+Passed:
+Three 58 "u\1007204m\1043833" '\1108722'
+
+Passed:
+Three 13 "\54518.\f*'(=fdf\77757,i)\CAN\143902{\f\1075978T\NUL<\v\STX\998880'n}B\NUL\ENQ&d8Q?g^\74539c4\ETBR\b\NULV>.Hj\ACKn*o\USq`{9\ENQ\58439XO\1015720,s-X\ACK\ng46\ACK$\ESC+" '['
+
+Passed:
+Three (-62) "\1110424\154365p\STXOO\\])\vM\RSLN\40484y\ETX\1064007h\1040623fvu\1109836lY\SYNe8\164759\GS\2391/\EMAE\SO^z\1049309v+:Y\t\1049944" '5'
+
+Passed:
+Three (-38) "\70853\203905\1075005xG\45043\1110906\185917@h" '\1041759'
+
+Passed:
+Three (-39) "]P\SI\1003412+\GSX\FS\DLE$3\SI\1088832\ETBfW\RS" 'c'
+
+Passed:
+Three (-25) "\ac\\\DC3P!\143790\a\SO$~^\SOH\62155\173776\24151\DC3\1025585f\917629Wn\STX" '['
+
+Passed:
+Three (-70) "vkf<LKD" 'r'
+
+Passed:
+Three 6 "\24794\\=\1106346l\1086762\NUL\69814n\1095191iZ\58459\SUB\92801\1041138M8\147177\DC2~\NULn\1061466\NAKH {\SIw=\1043180^\RS\1110829RA\DC12\ETB}\SYN\1021729\NUL\1076498V!\963|^R{?-@K\1015851w\11767\129080|gkl\f\986690\GSEs\985024\1063484E\ETX@[\190702\"\174789" '\1015601'
+
+Passed:
+Three (-42) "\1024865(\1052941\&5\DC1\160420\n\1055228\141649&AZ\DLE\1053054{Ep;v\3647%&z\32591\1051415uI]\74000s#\FSe#B\SUBp\138715:\ACK " 's'
+
++++ OK, passed 100 tests.
+Passed:
+'K'
+""
+0
+
+Passed:
+'o'
+""
+0
+
+Passed:
+'\NAK'
+"\DC4"
+1
+
+Passed:
+'\998739'
+"5\FSk"
+-2
+
+Passed:
+'\1032549'
+"\SI\vhu"
+-4
+
+Passed:
+'\DEL'
+"z\1075446\FS"
+0
+
+Passed:
+'\SI'
+".4x"
+-5
+
+Passed:
+':'
+""
+-6
+
+Passed:
+'\DC1'
+"T\GS\144949\&5\ENQ)"
+2
+
+Passed:
+'J'
+"\ETBq\ESC\a\ETBaR"
+8
+
+Passed:
+'6'
+"(\ENQ\CANe\ESC,\161269\&5"
+-4
+
+Passed:
+'$'
+"~Z3\b\SOH;"
+8
+
+Passed:
+'\US'
+""
+-3
+
+Passed:
+'\NUL'
+""
+9
+
+Passed:
+'\DC1'
+"O+\SUBI\155676r%}"
+4
+
+Passed:
+'W'
+"\985005\SOHAG\r\1062533A"
+15
+
+Passed:
+'J'
+"J"
+11
+
+Passed:
+'\a'
+"\a"
+-3
+
+Passed:
+'5'
+"R?E\1079155\74121De/"
+4
+
+Passed:
+'J'
+"~|AV\72839\ENQ4<[\ETBA"
+10
+
+Passed:
+'\61391'
+"\994295\1063776"
+10
+
+Passed:
+'p'
+"\SUBa|>A\1089238hQWM<:;\NUL\1067745\199216\RS"
+19
+
+Passed:
+'\30797'
+""
+-6
+
+Passed:
+'T'
+"5YSzV\1081543\18708\126590w`e1\1097968(\100315\1104535d"
+20
+
+Passed:
+'\176870'
+"e6M/\v\NAKF<L{\EOT#\998427\154193\1012365'\RS\119849z"
+-15
+
+Passed:
+'\9426'
+"r\33854\1078012\DLE\ETB\ETX"
+1
+
+Passed:
+'\1000019'
+"\1047187\DLE\ENQU\DLE\DLE"
+-18
+
+Passed:
+'\1094492'
+"b\FS'\1058564\1109578\&9\10303w\135555Y\CANF\t<\1107933g\n"
+21
+
+Passed:
+'\1028385'
+"\NAK?.d6\GSQ\1087559a:\201434{\DEL"
+-15
+
+Passed:
+'\SO'
+"}\94896\182483\SUBG\99797\1013802x\FS\995452^\1010026*p]\1032077\DC4+\126580\1035133\ETB\ESC$v\22651P\98472"
+18
+
+Passed:
+'8'
+"p\1085302|~\ETB\1023221\rK\1049676\CAN\rKk\1067450R"
+-19
+
+Passed:
+'\CAN'
+"0"
+4
+
+Passed:
+'n'
+"X$\SOH\NAK*\1031276\99080\1017220\1073223jt>\1021077rr \t\28384{'S0\1094990b\1026043"
+-3
+
+Passed:
+'k'
+"JC,n`\147868][{\1103144\34787U\RSb\28741\1056553"
+22
+
+Passed:
+'}'
+"\NULRu\NULY3\EM5F3\SI\DC2\USN\172158\1012099a5\v\DC1\1100143\54763\NUL_\ENQ\STX7\1104175\&0\DC2\1053960:\7854"
+26
+
+Passed:
+','
+"CZ\ENQ\FS\44998\94644\9734"
+23
+
+Passed:
+'\GS'
+"9%8F\DLEbI\EMa#\ri\145214\172979-\DC2pG\ENQ\99128W\GS{-jc\1059899\32280)I"
+-14
+
+Passed:
+'\33736'
+"^\FS\36874P\GSL$7j+h\\?\r"
+-20
+
+Passed:
+'I'
+"Kg|u\a\1004709\183945U\100577\37387\ETBl\FS*\121083a"
+-31
+
+Passed:
+'\DEL'
+"z\71974r\EOTi\41037\34119\990199\121399\RSl\STX"
+14
+
+Passed:
+'s'
+"\988115\"n\ETB+\170904\150688\SOH:y\NULe\b\15121q\1017682&i\1109040\bl\CAN\t\16900\1059600.ja(*|\1012314\SOH-\7856o3%\1053266>"
+7
+
+Passed:
+'\v'
+"-]a92t\r\1084133h\1065226\1038873T\1086098\EOTe\1057976$cO\172250\15739d}\32887'\RS\\L\EOT\1105547,2\f"
+-41
+
+Passed:
+'\141129'
+"::r\26760,\STXV\1039910\1036995\27606\141383\993080Y\24071Sb\151535\"0?\ENQe+8=+X!O\52414"
+6
+
+Passed:
+'p'
+"\43142\162775\STX\EM2:/d=*\1026710\1032836\RS0|?u{o[\38366s\985413\ACKL"
+34
+
+Passed:
+','
+"\GS^X_\DC1\1055301W\EOTd8\174324UU\194969D1\GS+6}v#rL\bW\NAKu\170092\SIO3\158789s\1086715"
+23
+
+Passed:
+'u'
+"J]\187878+S{\1044733\163197X(\SYN$\78241o\f\ENQ\1009841UyY\58980\ESC}"
+39
+
+Passed:
+'z'
+"\ETBi|Y)ZZ/\DEL&p\16900D\1010298I\1049521%g\EM\29231L\DC1uVt\9690S'\ACKw\994763:\ENQO.g\n8?"
+29
+
+Passed:
+'T'
+"uM\EM\1038890\&2J%\US\FS2>\42120\1035086\60720B\185979A\SYNef"
+-41
+
+Passed:
+'\52190'
+"\a\1045988\1100716\STX\a\993601\989875\DC3+\131669F\143472N\157148'\1073603M=cO\aF<\24513\6754:\141935)J:\a\61247(#\ETB\GS3\1007710\1024688\27277\a<>c#\170375\SO\n"
+7
+
+Passed:
+'\SI'
+"\1100041\EOT\NAK3\SYN\64289$r\158707\50795\&7\1060979D4\EM\RS6\13870\ETBKA(S\142036\179990\1057916<\1042698\197214\22326gd\159467\184280\31748cEcj"
+-48
+
+Passed:
+'a'
+"\STXx\169471RO^ch>Gr5E\DLE\171694H\1069745\&8p2\1020878m\986853;qz&$4r\1036550\1107531\1100087_L"
+49
+
+Passed:
+'!'
+"\SUB\26335\984084\41212h#\CANn\1085924\1084265]\1042220\1076527k\DC2*5\189282,\1011693NwyB~af\r-\1012383\STXwx\8961\&2\DC17\1017796\1063837M\ETX\59021\1077480\1052556$9\DC3\n7\144152"
+-40
+
+Passed:
+'\2567'
+"\ENQ\186431\197355W@$"
+32
+
+Passed:
+'V'
+"8ZO\ESC\DC3\r\1096990W\RSap\1081095\ACK\197320NA%7=\a5.!\FS0\16928"
+13
+
+Passed:
+'\100129'
+"\30575\SI+su<\USHy\1080633\a\EOT'gk\1028604vU{\GSyo\1053400I\DELe\DC23\1042306\26115>\1104301"
+-2
+
+Passed:
+'\26720'
+"j\f5\26037Em"
+-27
+
+Passed:
+'\33692'
+"Oz\42458`&\1006809\27550}\SO\996825\ETX|\taI\1045412op(\f6\DC4(\1099883n\1054601#:\GS&L\136737z\83184\1048188\US\ACKxz/\48250:a_\USveM%"
+-1
+
+Passed:
+'-'
+"\f`\DC1>b\NAK\DELo\1067086;"
+32
+
+Passed:
+'\NAK'
+"+bt\1092824\STX\1112841\NUL*:ZF\STX=\EMM!\USxj\DEL\RS"
+-16
+
+Passed:
+'\EM'
+"vM\12159\a1{\US\1070330"
+4
+
+Passed:
+'/'
+"\EMcZk\184426\b\\!\SOH\SYNP\1094129\122979\ETX\198240\33695\NAK\1039235\SIc\1099383k"
+41
+
+Passed:
+'\ESC'
+"m\NAKaYs\CAN\991014m\\\47534\EM/\1015671\FS\RSLDFq\166919\177794\160982t\1032701u\DEL7e\SOH{\190782f`G\100192"
+-48
+
+Passed:
+'Y'
+"u0H1f,\DC3w1\1088470I1"
+37
+
+Passed:
+'\GS'
+"$\1048835\ENQ?"
+-17
+
+Passed:
+'\157195'
+"`:yH,,\144021\DC3`<tu\199684\ETX\1092318?EP\SOH}\176080\1003881\DELK\59712\1019590\ACK\b\GS<\SUB\93015\1107399\SUB\1091627>j\145114.}%3\SOrm\EOT\39415\b\14439O\93829(\STX\DC1\57797\NAK<\RS\1029480\1083955\DEL"
+21
+
+Passed:
+'2'
+""
+30
+
+Passed:
+'\1040571'
+"|n4\121010\NUL\aaY]"
+37
+
+Passed:
+']'
+"c\145455vf\50727\DC14p\1040978"
+8
+
+Passed:
+'\DC3'
+"\142526\v"
+33
+
+Passed:
+'\SI'
+"\a\DEL.p\136022U\blvHz\DC2\182516t\165047\1055697\1100757\&4t\ETB\DC2?\169050\59484\27656'f`p\FS;\1059126Hf*No\188105%s\1016085\NAK\1018286\1009961\1104292\1073530.,\1054371\ESC9\a\1092117\52121xp\1033025\139730P\FS"
+50
+
+Passed:
+'\1062829'
+"w\1008500\1011039\&1\\l2\ETXAD\67325?a3\SUB\177100\t\ESC?\SOH\DC4j#jK\1048553(+_#Op\1102454%/}\984678\1088934<3i\1010795\28531Z\997063a\b\1100768Xw8yT"
+10
+
+Passed:
+']'
+"K\700\b5,\188331\1067338\&3\1108128.\11305\27352:\DC3_\63132"
+1
+
+Passed:
+'\1068107'
+"G\t\59557\156269\1027235\EM"
+51
+
+Passed:
+'\1029371'
+"1\SO``5:\1054145\29883\1058148\DC3@E4O\182572\38839JuAqED\1103369lb1o2u\NAK\DC4m\DC2\DLEnOq\RS@@g\\+j\1113867\1113409B@\161716jVTP>:\rR"
+6
+
+Passed:
+'\1014278'
+"\1103420\1103636\1010505UNAi3~[0t\"O\1000603\145265Yd\f\1014038&<dD8oH\1093320|]}\155292 wt\11764@:\DC4Z!K#S"
+-67
+
+Passed:
+'q'
+"\EM\73080\13225\DC3hJ\1043187\&4\SYN~\DC3<\1108652\SI\180896=t.\1013118_R\38609?|G\1079701\25311W\994755(\rV?\1069482#$\41986YOI\\\1004115\53134\&6[S\SUB\47021#$"
+-61
+
+Passed:
+'\ETB'
+")\11473\RS\22723\1011045>-_n\1072794@me"
+52
+
+Passed:
+'\100222'
+"j\999820\1070602.\NAK\FSM)\1087643fK\ETB \DELS\17313\151212\1111091q&*^{1\CAN3'\163115\1093125\&2j@\SYNr\184186"
+-73
+
+Passed:
+'\1036510'
+"^R\f9a)\917848Nv}\DC3u\124132r<\1104399\DC1\1049413\22342\SUBI\1083109:lf,\nsnpW=\ENQ)\168242 Yb@\1089534\SOH\3721BXj@;W\136121J=\b@2\v\985673yNV\194899p\ACK"
+63
+
+Passed:
+'h'
+"K\n\1038503\1034508w@LC\DC2\DLEv\1109945:\DLEq\SUBlnv\151505;l\RSU\b\FSh@S\SI)qm\1065751\NUL/\1075922;\1070881\147529$\158516\58181m[+X\204340\FSHN-\169726y&iY}?\1103777bi\GS\1054731"
+-60
+
+Passed:
+'j'
+"J_\v\STXV\DLE\ENQAzUi\ENQ,\SO\SOH[^7\ETBv{)=,\\\ETX\132459)bs\101513\FSq\180706:\DC4YA\1099901\96163"
+80
+
+Passed:
+'\1022359'
+"\26489\4519\SYN3\ENQ\f/\147530\EOT\1019791\ETX\153726cA\66336f|\r#T\171707\ESCIaV\tl\DEL\DC3G\134404&4ZG25\SUB\f-\ESCnP[\FS\SOH&\ENQ!KN\DC4\1017821\FS2\SOH\NUL.\f\97441H\64065Q\SI\DC3+\1108083"
+-16
+
+Passed:
+'\1113236'
+"n/\DC4\1010661Q\1095457\146665^hh9\78383@ {u4SH\EMoouo=\26480\"\DLE\1082149\SI'm\1003749\fCQ\194624H@B=U\110806j"
+-68
+
+Passed:
+'\155658'
+"\164310}\n8\149277-|p\985170\1035121\DC1X!"
+-46
+
+Passed:
+'\1086200'
+"\187040U\1049422sx\68464&j\b`ZV\1105628\GS\DLE\49122\31850D15O\120856\\$\156841\ENQ=pzR!b(Y\29422\1017257\1073932\204439\SOH\19052\FSX\1006771\US%*\SI1\SI|\1088628Ux\152874\39632!p\1021408qE9C|\1017895!"
+-42
+
+Passed:
+'\992272'
+"H\1044355\46451\1066536b\NUL\DEL'i]gV\1018226%\US\95361\"\tQe@+\DC1\190291\1049072\1100629i\US\n\1089055i+|\29684\987518\143454\11216}\37939\985321u"
+47
+
+Passed:
+'J'
+"\STX\1076349\STX\202091\1002379Z\SYN\17260O\1054900N\DLEaA"
+46
+
+Passed:
+'\180017'
+"\1099675\SOHu\41903A\USFJ`o=}\1085254.\1086119-iT\4520\r\22248E\985311f\998714YrJ\191483\59384?;\49900t\178155%V\"W.-"
+-4
+
+Passed:
+'\ESC'
+"48\US6\NAKS/\992068\26967[+\SYN\97451\142887C\990603"
+28
+
+Passed:
+'\\'
+"@\1057260\1002514\FS\1091073y\1033904n6m|_v\10207\95852c38}p0y\SO6dipG\GS`\78037*w\995715\NUL5M[2\1038166\vs\DC3C\54037gOaS\135130\1031800c\DEL\n0\NULc[sYEL\SIv\135389+\t\ENQ\1062338az\128920\EOT,Ua\96221"
+17
+
+Passed:
+'0'
+"\a\EM\DEL\EOT;\52233\1078548!\\]&b5\DLEW\RSc\n\148\140011u\vOvl8QM\ACKd-`%0\1103245pb\118811;yy"
+-44
+
+Passed:
+'\DC4'
+"|$\DC1W\ETB\122968\101495#O\67513n.yW<b.\1098948\GS8W\SYN9Ss\CAN`\STX\150531h)\111267rz9-\DC3\t/O\GS\129987DX\SYN\37770\1050563NN\988900\142527/(\DC4\184963!4AtWw\GSAo\1045661=l|\ETBc,z@\146759\1110849JB\SYNo\vD\990166E"
+-81
+
+Passed:
+'>'
+"\1086933"
+-20
+
+Passed:
+'4'
+"qK\58134Ct\136116x\1021905\USoZ\ETX$\1029642^Raf\ETX(\1042522k>{J\996618@\DLEe\ESCl\EOT+\STX\US\47675/\RSmE\v\136397\144323s\1080132F\STX\99410R\SO\NUL]\28617q\DC4r5\99874\24065\158265\SO=#(\1105817Wc\ETBY\v\STX\n"
+-5
+
+Passed:
+'\137389'
+"e\177574\18388wi\204339\CAN\"\ENQ\996404_\161202V8\EOT\1095853\DC2\1064651\CAN\t\997321iy\129367-\1064894VF\1062495\1102785}"
+90
+
+Passed:
+'E'
+"\NAK\ACK\ACK\a\GS"
+-41
+
+Passed:
+'\GS'
+"\1059455\ACK,\25683\179900\DEL\142689v4\r\6338j\996455}\EOT6\SUBEtMcs\1084070\SUBP|1\"CQ\ACK\DLE\119175\&8xks'J*V\RS\DC1\100108\5097!Yg\EOT\1069742\1090618\&5#B\1068446\&0Y}\182135i\vR"
+2
+
+Passed:
+')'
+"\133047'\ESC4\38118\82956\1023754\DC1v\DC1\1036939\a}]\ACK\SUB\173455\&1\1089420r\1069663\bs\175725\&76\RS\1112787\FS\1112765\ESC\EM\992709\198417'?\45772\168466[\SO*@i4\148939i\119156Z'^Q\"TC\111033G\1005249v\999123\1048358\&2\992812\1032803@k}\10916\50938f"
+79
+
+Passed:
+'~'
+">v-\1088792\1048052%\1076796\"P^,\15508\ENQ\DC4A\fN2N\RS@\USbR\1055992<]w]\22705\&6Y"
+-70
+
+Passed:
+'\b'
+"|\b:\ETX\54940EJ,\DC1\DC3:_\f"
+-95
+
++++ OK, passed 100 tests.
+Passed:
+Three' 0 "" ""
+
+Passed:
+Three' (-1) "" ""
+
+Passed:
+Three' 2 "\1001509" ""
+
+Passed:
+Three' 3 "\SYN)o" "r\988193"
+
+Passed:
+Three' (-2) "" "5\1037493\SYN"
+
+Passed:
+Three' 0 "r<gj" ""
+
+Passed:
+Three' (-1) "RS" "/%S\DC2#"
+
+Passed:
+Three' (-5) "" "\160443"
+
+Passed:
+Three' 6 "n" "d\EM'|\1065303i"
+
+Passed:
+Three' (-4) "U" "*\1079591\ETX"
+
+Passed:
+Three' 8 "" "()\1084608\1006715/"
+
+Passed:
+Three' (-7) "[9ICh*\ETX\CAN\159910oV" "\1096370X\f3b\95160\137000"
+
+Passed:
+Three' 0 "\CANt/\150810o\\F\EOTC" "\DLE"
+
+Passed:
+Three' (-12) "\1021959<\"\SINn\NAKfgAh" ",\72987C\54141d"
+
+Passed:
+Three' (-3) "\128861,B\126245\1055031<qI-c" "Y;\164666=N\123589\&4P"
+
+Passed:
+Three' 6 "t\ESC]\44115\1045496\35400\DC4\989476$" "\t\1044712z\6016\ENQ-"
+
+Passed:
+Three' (-12) "\1094899\&0s6\1083162y(]=\SUB5B\a\60134" "\1010795\ahfL\1109614\1001480\DC3~"
+
+Passed:
+Three' (-16) "]`\v\FS#h\175403\151374" "\DC2d0\120191"
+
+Passed:
+Three' (-10) "OB:" "\DLE1&Qx"
+
+Passed:
+Three' 2 "\1090202S@\SO" "\1094226"
+
+Passed:
+Three' (-19) "L\21615\&7\FS\99042" ",x\190737\SUB\52040Hx\1058309v\f\SOHla\1039521\1103322"
+
+Passed:
+Three' 21 "\GS,\13252\1068229\b\1009322\1039505\1038405\1081034\65747\63769\136825\172725\&4\1039300Zb \EOTx" "\1093147\ESC\ENQ,"
+
+Passed:
+Three' (-17) "\67975UU\1082755\&7\994526|m\CAN|" "EL\184867t+X\DC3\ETXQ\DC3\13131"
+
+Passed:
+Three' 5 "\152734\163478r" "\1024056\&1GOa5\DC3"
+
+Passed:
+Three' 0 "\111120o\aF;\GS^\DC1\EM\1031636" "l.6>\48255\1055513fb\188824w\120349\1033344<c\r\984769?p\1030583\DLE"
+
+Passed:
+Three' 22 "};\133750Q9\28308\a\ENQ\ESC\b\41572\SUBX].\33920>" "\NUL;\12928\1067014NL\\\ENQ\33254\DC3"
+
+Passed:
+Three' (-5) "F\1095286]\59693ee\185403U\129751dI9:\f&q\134355\5816LD+\95798" "[\1065058\DC3"
+
+Passed:
+Three' 1 "\1007916d,\NUL\1021447i*6]\30553\18123y\62242b\CAN\198011\985393O\\8\27892\42939d\DC2\n\993457\164960" "5'.=\NUL\145377"
+
+Passed:
+Three' (-11) "g\NULB\128449L\24717\\>3\SOHx\43891\&8\GS\1098195k\192076Nz\RS\1026874" "f\61567vpiL\1017453\26959]XC\133412$]s"
+
+Passed:
+Three' (-14) "rG\EM\bg\1063596\989114[/tm\38437\51687\&3\161101dm\1040192\NUL" "4j>2\DC3ZsUP\SOH\47045\1082088i!na\28164\SOHL\ENQ\1065826\2227\41146 +\3314\168889"
+
+Passed:
+Three' 6 "'sI" "\186139\1068326n\vv'J<=I7\1082123B\a||8M:"
+
+Passed:
+Three' 26 "Vp1\1016120\\\8660\127323\DC35\172683\ETX\65449A\GS\v\1021154\149891\1035422u-;\1062307M" "\996697\1062532\1108009"
+
+Passed:
+Three' 15 "\DC4S98{<U\NAK4I\38801\ENQ9)" "\ACK\149636\ETX\992930\994228^P\CAN\SI\ACKf"
+
+Passed:
+Three' (-17) "\ENQ^\EMb\DC4\1103623j\26717f.\v\991394\ACK\96117+%\1012432Wi\1093500\&5" ""
+
+Passed:
+Three' 32 "a" "\1053737+2\997308\1025516\GS\DC1\NAK\DELf]\ENQ%7Hy\1071811WT\8282\1007121\SOH\146961"
+
+Passed:
+Three' 14 "M\r\vU\14750\1086292VM7\ETXb\aVl\127961^\1068890\r4\SO^\SOH\FS;\1109413\142121\GSV}V\fy" "^S\43761w=\135500\1051435.O"
+
+Passed:
+Three' (-21) "\1051500\"I\a|FV\STXzh\ETB'\41531\53011F\"\SOHV\b" "\GS2Q\a'r\t@)\aY@L\1074572\1073110\158481Qu"
+
+Passed:
+Three' (-24) "l\33009I\EOT\176235\175222w\\4ZTNdh\DC1\1024502\1047058\&4R(\178522>,\SOH\ESC\1067958\ENQ\1000111uu\DC2" ";\996666\&7\58648D\DEL"
+
+Passed:
+Three' 26 "\by%m)\f\1066503\1077565*?\145492B\FS3?H\EOT\155120" "vV\21374\&1\159512O\DC1\1108463\ETX\ACKU/\13679\ETX.{mr\167193Bfb1;\r"
+
+Passed:
+Three' 6 "\180890^\"q~\1002600\993219)\1040585\"L6Pg\t\EM\1001099l\991213V\1064152]$" "Ny\31129\SI\205\10304x"
+
+Passed:
+Three' (-28) "y\1069033\SUB\197784\1072559\1028231/\1009674+\1101240\f\STX\ETXn\14959O,\n\DLE\28081\DC3\1050301\1113587\SI\RS:9H\153969H\ESC\DLE\1031758A" "\1110277H/v \149238\ETBu$\ACK\NAK\SO!>\US&K\SUBE*\4016\CAN\FS3W\125205\164810P2"
+
+Passed:
+Three' 16 "" "\GS\139280,\1083880}\1091332\3927\r\41513L\988196eZGZm8*Q\1099276\&8\DC4\157345\SOH\1044194\&71\201124"
+
+Passed:
+Three' 27 "\f+\SUBR9\r\DLEm\15960D13" "\1026108V#l\1005957\16506\DC1~\205240pn\ETXF\b\bO-AT\199565"
+
+Passed:
+Three' 43 "\NUL\DC2\73506\1012954=l\DC3B{#\1039941&\164695\STXFt\SUB\1057430TK91" "\166408\39294LIk`\164602\DLE\147533'\143905\1087292\ACKv\1030814\1021096\&6\23140}\ETBV,\n^d>Z)"
+
+Passed:
+Three' 33 "%5\1000403K5c\t\1016461\1108027I 6f??\48955\1051439\GS" "(\1076190\1038567\1013098f\1763\1029807tA2tP\1110122\1053539Z\1021378\1050581s\RS\1033330[\51573\6558N.$\123158\v\NAKCC*"
+
+Passed:
+Three' (-2) "9s\99013\167785L\28985y_\1015965@\EM\EOT\54473T\ESCy\RS\1044611%\1083275\t\ETXU\183694<l\151216\aK\1088887\19298\DC4" "h\1004804\1106545,s^g\SOg\FS\97360Lb[^Y$\FSt"
+
+Passed:
+Three' (-21) ".\66225\188971|e\1096276\162173I\DEL\1104092\&1:][" "\62903v\ESC\ACK\DC2\166114%7ES\1083944\FSdNOx\47494]g\1010997bG\SI"
+
+Passed:
+Three' (-43) "'/\173274\NULh\r|hG\ENQ\ENQ\201411" "=\204209$`\ACK<f%$,\1093226v\r\1013639\SOONo\\\1100961\STXFc>\bJB\1021192\157097\142267B\CANbGW\31928"
+
+Passed:
+Three' 40 "\147268\&1f\162794\EM\ESC\SOH\185530FKU\vF8\DC4e\29418\49603LpGe\1025456\1068335(\1034516\72223&\1082336" "\1025668\ESC\DELK\133754\1106763f\10698D^\EM\ESC\1063126K\1085581\131697^\23576Kt\CANM\1070314"
+
+Passed:
+Three' (-34) "Z/\ESC\GSEm*\28029)\201564d\ENQ\DLE&\ETBk\176138\8605\1109922dm\1052403\DC4\148694\1093725p.\ETXa\CAN\NUL7\162415m\DLEm=\DC2p^~" "p6\ESC"
+
+Passed:
+Three' 32 "B\1085439\DLEH<Eii\CAN\vRN\1013559LLZH\f\NAK[&" "\1031555\1016747r\1035429\DC2\1089114\1057317\t\1106285\US`W*\ETB\bo\SO\1085751zU=\6661\ESC_O"
+
+Passed:
+Three' (-23) "0\74167\32461y\ETX6\170528;c\183477B\SUB3)ucU\t[\ETB\160172:\DC34\1052055]5" "Mp\1001685\SO\2286Vi\1031375\&1z\a\181534\72257\1057003\v|\142275\DEL"
+
+Passed:
+Three' (-13) "\\4H\1083327\19371\DLE\122979\37749\33525]&r\29392i^6\NUL\1007584G\1006412I{o\GS\198950?C\1018892\1037229z\992825I|n\199680\1068208\CAN,.-9)" "\4011\178341\178730[>"
+
+Passed:
+Three' 37 "" "@\1094041==\a\46048S\EOT=\SOHA\97413W,WV\190441B\DLE&\UStb3l\63129;8]{\ETX}r-\58090\&7P\GS\78522\CAN\119175\1081024i%F\147271\&0"
+
+Passed:
+Three' 3 "`1\a+HBH;\DC3\ENQL\RSV-\1061253\&7\30630\DC1f2\CANoUIf&IB\66216\14677\SOH6\n\1048439s\r" "\a\47823\CAN\DC3\197530\94588JFQ\ACKP)s|\rvB\FSyz\42596=\1087195\&7\STXDV\1042444}\45116"
+
+Passed:
+Three' 0 "]\1052683^\DC1\ENQ-^\ENQ:9?\128896\1044938\121149\995376U\a_\171664\DC1n4\142782O*\1097812IO\NULp\97763\&1[\1022497\190068L\1111732$\v==\65173Q\SO*'" "#:"
+
+Passed:
+Three' (-53) "b\ETB}mh]\FS;G[[4?\DEL\DC2Ku\1073914zQ!" "\bm\DLE\RSkP\t\127512\1091427T\33145\41648\DC1\DC1Z\32115M\EOT\EMp?\60335IOAZJc7q\1105525 \1082163\SYN3mL\142169=\999610[\1024039a\1099208t~:BL\43100CP "
+
+Passed:
+Three' 27 "\1014625\1107416r[\1106152\DELj\69279 #k\119600~\DLEo\65850\1089486B;V\12350\&9O\SYNn>\SO\ETX+Y\DC4\SUB\153946\1032234'{7" "\120388\aoT\1067677\3297<\SO\1020188\133804\36621\&597XW\EM05X-\1041390\&9S\157889h\183328\67296p\1096893g\b4\136052w\US}`s\vD\f=;"
+
+Passed:
+Three' (-54) "n\1081134'(\DEL3\DLE" "Z\1098635QH\ETX\ESCMITA/`\DLEz>)\1018961{n[?%\EM\NUL\1099270S<|mqWf\1093854B\ACKDb\1109615h\t\137017V\DELZ\CANlxF\190858~9'U\1009977Qm$]"
+
+Passed:
+Three' 43 "\ENQ\ENQ&\990190\RSB\46248\1068137r%M^>)\4457i" "\1032486"
+
+Passed:
+Three' (-46) "OF|\1102402\49014+\178022$nE\1002089l\983852c\FSPW\197369,D9\150665\DC1\1078322'K" "DA\"T\49212\be\SUB\ESC\1050440\189926\b_\164552\n\1012656O\FS\ENQ\ACK/\58820z\DELq1_\24755\1071729-H\1088100L:\bI\1013503.\180208\160799+sL\DC2>\1109294\GS`\47414\ETB"
+
+Passed:
+Three' (-49) "\DC2{p'\NUL4\ETXk|\ESCB):\92588\26946\US!\137392lVvh\1033188\1016197\1048272Gv\SUBiXkW" "k"
+
+Passed:
+Three' 42 "MU\25581\1019822\986810\&1\SO\1048169\\q\1083092\1110469\1110310\DC1\10669e\r..C\152384^\1053361U0{\EOTL6" "\1080503;\1053509\EOT.\NUL\993856E\1039192\49053\187278\131113\54401Q\101268uN\v\1020644c\DC3\198024\SOoz\96201\ETB\98144YR\\\21408ziP\180676\SUB"
+
+Passed:
+Three' 5 "lX\191340R|\GS_*E\DC3\203741+.\43122|\110686\1030646\CAN" "H\1048619\US\DC1\72350\1111758)\ENQ\SI\CAN\ACKdq<YF\14675\ETB\SOH\tv1\1041240\rin@\34343\ETXh_\155870D\"\SO!\1004580{\DC3k\RSJ(4\4556s"
+
+Passed:
+Three' (-17) "^Qv3i/`\1089820\DC2\v<\CAN \1071777\fJhl\1060147zhk2*\1080454WN#I\160828\71058\ACKz\40110\39073\DC3" "\11822\175453\ACK\1008744\1005825\vm\142827"
+
+Passed:
+Three' 3 "\GS\DC3=!WUo\DELpq\STX2+<tnl\FS\1106887Mh\1069194\990716\SYNg\\\26840\nulfFv\1038343\DC34\RSqh\ESC+=~\SYN(zZ$g\\\US/\t\41390=E\STXK\17085^" "=[Y\119504\1067929\nHF\155132@O#\r"
+
+Passed:
+Three' 57 "\1092497\a0\991423o\191547\ETB(\ETBgZ.3\71315o\999152(\1024246\41884\&8U\FS4\173631" "(|t^\1059878k"
+
+Passed:
+Three' (-46) "]xX\1110172\149611\&8pw.\STX\99566m\39832\ACKo\196663\SYNZ\160955\1018420\SYN\RS\987975\1044217+.\184121L" "\SUB>\19555v9\162392\&6)\a\145378&E`\ACK"
+
+Passed:
+Three' 45 "\141958q5h\SOHf\DEL%\DC3\126575" "mbP\1105692~~\1079128r\1031062\EM\154906D\ETXN\a,EC\1071801\5490N\200349\184677Y"
+
+Passed:
+Three' (-52) "\SOW\GSf\35481u\1055376\160699:\EOTeK;\10033\&7sY\51401W\n\1072347(OJd/\n\NAK(q\a[\176156hb\83277\&1\49283\24328JCttV\"T\GSR\1018996Lo|3Eg11" "Gk\204429H\DC2x\1086285N\1056724\a01H\ETX(P[\SYN<e\1110351\DEL\27024\201123(>;"
+
+Passed:
+Three' (-41) "o,fZ,\SOLKM@M\154483\48047\DLE_~\SYN|\1091780\ESCa_\DLE@7\1083833;s\1094968z\137884\DC22@27\42953" "mh[vK\1551^(\180340\EMi\ACK>\ESC5;Z%.\139787\52111\1013974\23611\1054303\204911\&1\ESC\EM\1082667g7\57756zL*yr\57396S\ACK"
+
+Passed:
+Three' 28 "Gh\CAN\US[" "\25328\NAK:"
+
+Passed:
+Three' 42 "\6486\1111504f:t)\203060S A\n\985228\&55JS\DEL\DC3f\1006085H\1104296\1088876\v\29693YEO}f\129158\&64^\DC1\17616\FSUx\DEL\11252[\153098\CAN\159325\ETXGdQ#uq\9582\DC2\166220\1042597H\NUL*\1101210:" ">,j\133625\\\NUL\1012491\170006\1054845\198966\158085\1098008\&7yOfV\DC2u\EM\SO\1074430B\SYN^\SIy\DEL[\DC4\DC2"
+
+Passed:
+Three' (-72) "h\138937\124954f\1043383\DC1*jVq\SO?fon\CAN+*v\DC3oS\EOTs\1028339J\US<\150579\1063939i3\CAND\40503\DC3\176130\ESC\189056nZ8\1070684H\fkE\SUB\138165\fAC\1074374V0\1058609\1060189<\SOH\1031080)\NULXi" "FB\1006454\SUB\194869B\NAKE~:t\44821\"AW\43868i(\9802{X\ETX\1068035\f\DEL\5290\rsm|t.\SI\95608\&5\DC1]\198558"
+
+Passed:
+Three' (-74) " G\145341\1047127\GS\1010491\SOHS\27314\SO\ETX\74639\1104543\177178`%\EOTAg\168903\149002\1011205\1086867\SUB\t\1114044\1010629\78398v|S+n\SUB \185204\f-\DELsf\DLER\95934\1047603\1026987" "5$xR\991542\DC4\DC2#j"
+
+Passed:
+Three' (-30) "Z\EMT[\132764f|\ESC\197453\992691\141992\83497\SOC\17301\67665q\"p\EM\77986\995420RT#6}\156724\RS\202452-\DC3n,\ACK\DC2\NUL\1096962]NGz\1000431V:\17443l+a\172416{8?+\DLE\ENQ/\DC2.Y`U" "j\1005775\1066433\SO`_#fl\100754z\bV~\187297zo0 \STX X\1008325iU.\DC2?s\1080233/>&\985204.vX\STXh\153758'/x\16229N\143973d3gj\201241v\1103053^\n\64668\1068063b\1020951u\vX"
+
+Passed:
+Three' 27 "\ENQ\52753" "D\ACKg@.Z\NAK\ENQ\73008lv\186442\US\198832\35083TP\146651i8 \199736\STX\DC1;{\CANO\1057037&\f\SYNb\1031157-0!$f\a?\n\EM\DC2"
+
+Passed:
+Three' (-71) "b\180687O\1089751j~\183025A\991553\&7B~\STXdV\SYN*&?!6\47421]cU\9870Xh\n\NAK\FS+0\183404\r\1024975l=\"[\ESCg\97888?\182810(\STX\155592*\1035009u\SOH9\96969\&1\126519S\1022212\243pH(N\1042751-\EM\SOH\94622r+=\b\1091293j\39853\13548" "\DC1\DC3K`\167895\&3k\1109069\1102006\SUB?U2\DC4/\NAKOG\1018066eYge%\1038478\n3Iq4\DC2al\a\997144\&1\4966\SI\STX\70118<E\DLE\20784\&4\61743^\19192x\5632\DC3\13921(('g\1068833XZX\SOH[\162090\ENQ\1018766~mI\n~a "
+
+Passed:
+Three' (-30) "\\\n~U\58563\13825J?mRJPr" "\66942\ETB~bl\"\143200\1019300`\f2\EM\FS\7996\1065528\169395\SYN^eZD[moUDJ\CANA3>\129752\r\EMu\GS2t\95685/O=T=\EM`\\lTTA"
+
+Passed:
+Three' 61 "wR\b\160366`\v\198679\68614I#\21148\&3\ESC\8821/\1006421\993648n\32664>]\r=d}>]S\n+Ap4Y\95123\DC2\1048004\f\EM8y\"t\1081995r\SO\ETX5\9079D\SOHg" "d/\182686\154566\60516!{@]q1z\DC3?\60684\FS\RS*\1091143\SOH\1111330}U\SUB+:\b\DC1/S\DC2T\983103\94726\SYN\47321\NAKR}#;\1092842"
+
+Passed:
+Three' 21 "\1072056\165339\1066448\DEL\n\NUL\127068m[\148974\1080248\&4;L\1061620\1027766\t\100578\141337\ESC\USTt\1085994\1090399\bJ\SYNb\DC3\189115\&7\1047071Ug\CAN_\157186b\23300\&8S\1002491\n\1010435rH\999152l/\FSpM((" "\23521LF\SUB\GS\985504k9\ACK(b\57751\DC4\1112683\f\DC2w8\145919\989154\DLEp|\EOT\14129.0|\DLEa+L_Q}\SUB\160434\&5\EMO\153840\nN[82NE>9tT\9955Z<I9\NUL_\SUB*S\16663V\51375V8U\30389\DC2'o\996786HloU\154803"
+
+Passed:
+Three' (-74) "^\4763b\ESCT\162002{\2055\"\1004833\41451\v\CAN\137231/D\DC1!cC\48419)\1080546\ns\ETX\DC3I4\ETX\1100894HpW\17064Y\127798C\US\n\DC2\DC1q\SUB\10382\34370^\164333\78557\SOH\DELG@}{sC\1039331\157327\b\ETXQfkU\DC3i.\37408\ETX\983953\SUB\121007\38535^88%G," "_\EM;\1073448\EOT-\32327\b\160956\60828]\DEL"
+
+Passed:
+Three' (-59) "V\21731n\DC2FjT:\ENQ\ETX]T?\37340\1051321\150379WI\SUB" "G:\17155n=\f\EOT\EOT\1109795\&5R\1024524\60298$\17397\202607\DC3\1091129\39395k6\1052900\1036597"
+
+Passed:
+Three' 59 "M\61176v\996811\1088559 Qw\119056L'O$zbag!\137845\&3|-f@\1016235W\120728\ESCK\1046499H\1075355p`>" "\1046321\&5\1093956?\161336_\aF4\1027398+62}'h\ETB'(\57848\1034328V=\1101631/\ETBk\"\1005127\1030401\1101546y\984816bB_\1003082\EOTl@\157347\1031934d(\184628$z\33491\SOH\tA\STX\199599\SO\SO\1104103\"Xp\1107204C\203648\DC2\158247!nIp\41035\1037398H\SI>\1080853\US8+]\NUL\GS"
+
+Passed:
+Three' 17 "K\US\1095234wZ%\145536\&6\DLE\96965\190031JQ\1049948+x\ENQS{3\993388}7\r\1095451\&6V\991685jp\b\NUL\STX9\ETX7Bv\1092750\n\DC4" "\1034895I\t>\NUL{\1031255\28035\77867<\997325\NUL7\54357P\96643\7360>!7aK\1065024\200319\ESC\NULoN\160952<\177396J?s\1003854\39199./!W9Z!N>\\ls}\DC1k5+"
+
+Passed:
+Three' 22 "\204400\1055462\1645\20687i\\'\1048387t\1081463z0;2\NULFx*\1098115\SOz\167657|v)\ESC\175588jC|/.P\1022405-\8862\&8\SUB\ETBUD-\n\1077381\DC3s\1075673\41970\vp^\1025903\98433=\39147\128427H\a\DLEx\ETX\DEL\97657B\a\1047872\1009389o" "\v;\201554"
+
+Passed:
+Three' (-4) "Q\STX\DC2\185099B\999156GUP\198015\&2d:I\160000\DLEvrH\\Xs\161686\DC30\1012576-_\1098263\14256\SO1\STXE\EM\SIc\ETX\156693*%" "j_\DC3D6\\j\"D\DC2y-E\\\37668\RSdw\\\ETB-i\US\2081\1056864\1103258\59266je:\ENQ\1027589\998062\&0l\1045630%\179875p8."
+
+Passed:
+Three' 44 "C\SO\ACK\1090346\SOuXVaVf\1026252W\GS%9z\48968\DEL\DC3\NULH\DEL\ESC,\SOm\ETB\NUL>\986440\&0\40402BU}\1025487\61650P+]T\1069629\SO\DC3W\\\4555dSj\NULs\191658N.F\45606\1060336-\1042511\DEL^\ETX\1045984\1051427\1052850=Oy(\NUL}" "\120219\1009840\197441{w\29049@\10717\DEL\NAK|\1025469\ETB\DEL\DC4+\167549\20983A\b\146609"
+
+Passed:
+Three' (-39) "\10300hz\1023774\73539\t\1057018j\SOV\129601\v4\164160T\138855)KY^z\25632$\n\a\b={\DC3\1039080\1056150eo\NAK\1109914au\1020424t\DC2\SOH;.xs\DC2o\SO\DC1QH\EMc\SYN\1065887\1049721\&5\1034300\30924\t\39510\EOTY&\\\1081489r}\DLE" "^'%\1028278T\994792\SOHJ?V*\164683\DC2\1008926\&4\v\133308\ACK?\a\ENQd\FS<\ACK\73522=Mmu+\SYNE"
+
+Passed:
+Three' 59 "@\SUBtGC\157682vU" "\135716\1026001H/\DC1\NUL*\30272\52203\NAKy-\40812yr\buR6\15341-\205140\167102\1019680r^\1034642\US\SOH*W\DC4DwQc.~b\EMi\82995Y\USr;S\1052794\1024384\ETB\1101281(&iO3\SIV\989114\&6HHj1\ETX_i\1046687\RS\US\RS\a\a\1088974\ETXO\RS\139010fP\b\160884V\202306"
+
+Passed:
+Three' (-73) "MC&\ETXY\161100^\64802\&5P*\1069795Jy\15652A1*TQ(PJ\\K\1073423\1113579Q7HK\USx*\173957\68402\152008G^\198049\EM\138135j\173838\987912oyq\r\tS8\r_\NUL\1076161\&1BJ\34303" "4\187280LsJyIu1\ETX|\1031411=B\DELC^\50035(\SI\6410R_6\988366}nEpL\SOB\20782>EE\SUBW\b|3SW\1102081cek\US\ESCk\204491#\1004843@\SOH\GS6\1059226\&3\ahc\1112561\57476\r\992070\10208\&0#\1009839\200478H;\994438\57912\1071559Y\DEL\199035\1026148Pi\RS"
+
+Passed:
+Three' 90 "\DC3\58978\DC22\12112kGP6\ACKAqs4\98937jt'\1006760p\ESC?\1038835rS\ENQ\SO}\DELv27T~\STXx\a6&\128270-ijx&qUL\47779:\1109657\DC17\1088862\154489\178883y" "w\RSe2\121093\202551\1040399ps\1095857\SUBt|Z\ESCQ\CAN)\t<b[n3km"
+
+Passed:
+Three' (-72) "e>4)R?v$v')\1011447\1093291\16681@\1086639/\DEL51}+h\v\1061785 \97407\&5\t\21921e\CAN:\185819/\NULEqgS9\194646\2493N*MpBiW\1093617U\EOT\994010\59236=v\RS\1026992\&3\166340" "\SO&\SI\DEL\SUB\1031351e}\163599S\17679\SYNJ\66466dQ?+ f\36680o\ACK%0\63742C\128688\&31e1g64k\1007162\n\\pp\SI\DC4\DEL\"\1064381An\STX\184517\\\192057\ESC7.\37387R\SYN0\1096806:\SOHup\160347h9D\185161=:S\aS$iP\1103599\&0k\n\166197\138663$"
+
+Passed:
+Three' 92 "E8\41442S\987400\6167;@HP\1087957 \1098605l\136412Pv\US\GSL!:U `nD\DC16%#PK[kA\ESCT5\ACKx{\62552^" "[\GS \1110326+\133255\ACK_\SIV\60045\57612Xyj\NAKDW:I{]|\SYN\f\ETB\v\1074965\1035962\DC1`&f(\r1L\rH\120453MHFk&9<{\202549\1091862\152020\&1lyy=\1022131i\EOT\EOT\1034849\ETB\162047\1094602i\DEL\SO\26410;9\20304"
+
+Passed:
+Three' (-36) "6&\1056314g=\1052854\1016805V,.iyl\DC1\1086591f\1034#\1078505!\1028274<Zit\1082797!\n\ESC{*\RS\1027070\1090202B[{\DC4\180230:TR\ESCk\t\53034}.CW\1072091" "B\1083868\&2O\159865\1029049?k-\"\n-\ENQ:\ACKz\1026398k)-\NAKCe\187219\64658\32641\GSLl6\995688\1018057\&3'y\ENQ\149421\994478\NAKR0\158323\RS\DLEM\NUL\SIB4\30743\23905J/7\1085391\51390\&7\af4V12\997623JD\DLE\v>h"
+
+Passed:
+Three' 78 "\1044142E\1004030\1046846 \1067645\ESC\"d\1034454\1088029\&7=\1022197\bj\t\EMmeb\15256\DC2I\1008379k!\178744g\1104713E$~\DEL\191277\1042487QTz\DELR\1075097~Ca\52607]\1002015[\138553n!\101096p\a3H\GSL\t[n\ENQ\1083481\CANHK" "\49746\a\184890x\57368UjZ-\1078555\NAK\2118\DELHt\1055300\145285\40021\1036819\191845\&6]1\EM\EMO\144566\&1v\171248'4}s(\t\a\1098324p\999523\164898Am]cBJYpdu2\991044:\38561<:#a+==UD\DC2\v~\1006925xI\CAN(]<&\1030233\1020138a\44450\CAN"
+
+Passed:
+Three' 2 "Y:\48008De\36976.:+n!Uh-S\EOT!\r\a.K\1094432~Y\20260\vFq\EM~\RS\ACK\\}%\1066906\\]GO~\DLE'j8\DLE\995458C\20480aw\138423pxC" "\1087979U\1074951\1048565\74237x<\DC2\ENQoDMWFr\EM\198933\36003\ETB\SOH\EM'\ETBD+st\FS}\1001424\DC4{`\SO\16491\46746\1109437`\ts\145498Y;S9\ETX\126249Xp\138601\&9\1077670V\1050677v`y\45419\1085777\\\137887\1069259\1029593\1051612$\19724;\n8\RS\202282z?Bf\1108947\RS\1026848\191405/"
+
+Passed:
+Three' 26 "\RS\EOTPTl9i',\"Z-\1091570F\168621\174898)\a\USwY\98967ae)\1069560k\1078266~\1096077\156473ZPg\1076816\993301\b^4>T\ENQ$\995152\1008447Y\1112926Cm\131279\SUB\GS\DC4\ENQYp\"lS\1033576\132233y\987493\1016811Q}\SUB\991277\1090628\t\r\22315u\158653\EOT\ETBn'd_b\DC1=" "\27702\NULU?i\DC3\1005135\EM\993502{9?X4\ACK4\1059865"
+
+Passed:
+Three' (-75) "\176553?\46368\9942\DC1" "\155374\&2N'6kA\1093202\1101557Q\ACKz5!\tP\74939\189171|Z\1042993\42908I\\v\998904\1069928\35945\1087468\174663v[\EM\DEL\CAN_m\\2\DELSe\1087578~|`"
+
+Passed:
+Three' 60 "\988900thh\1027338'\DC3D Zu\RS\113752j\1088409JceA.lC\SOH\ACKZ\1066779~kZaZ\167841\4623h\1015098\EOT" "<;\NUL6\CANXZ\1094137d\185377\ENQ\ETB\SI\DC23("
+
++++ OK, passed 100 tests.
+Passed:
+'\SUB'
+0
+0
+
+Passed:
+'\ACK'
+1
+1
+
+Passed:
+'['
+-2
+-1
+
+Passed:
+'\1032267'
+-3
+3
+
+Passed:
+')'
+-4
+2
+
+Passed:
+'}'
+2
+-4
+
+Passed:
+'c'
+-6
+3
+
+Passed:
+'@'
+5
+6
+
+Passed:
+'\DEL'
+6
+4
+
+Passed:
+'\1021080'
+6
+5
+
+Passed:
+'G'
+-8
+1
+
+Passed:
+'\1064687'
+6
+-1
+
+Passed:
+'\159142'
+0
+-10
+
+Passed:
+'\1108987'
+9
+-8
+
+Passed:
+'u'
+9
+-11
+
+Passed:
+'\FS'
+1
+-2
+
+Passed:
+'\ACK'
+13
+7
+
+Passed:
+'G'
+5
+6
+
+Passed:
+'\ENQ'
+7
+-7
+
+Passed:
+'\25501'
+10
+-11
+
+Passed:
+'-'
+-12
+-14
+
+Passed:
+'\142611'
+7
+15
+
+Passed:
+'\r'
+5
+19
+
+Passed:
+'G'
+11
+13
+
+Passed:
+'H'
+5
+17
+
+Passed:
+']'
+-1
+-1
+
+Passed:
+'|'
+-18
+16
+
+Passed:
+'\32046'
+4
+1
+
+Passed:
+'\b'
+-18
+19
+
+Passed:
+'\ETB'
+-26
+13
+
+Passed:
+'\987789'
+27
+-29
+
+Passed:
+'7'
+-2
+-6
+
+Passed:
+'\136386'
+-10
+-13
+
+Passed:
+'4'
+-25
+-19
+
+Passed:
+'_'
+17
+28
+
+Passed:
+'$'
+24
+27
+
+Passed:
+'\ETB'
+-29
+-17
+
+Passed:
+'\n'
+-12
+-19
+
+Passed:
+'\EOT'
+19
+-4
+
+Passed:
+';'
+12
+-37
+
+Passed:
+'@'
+-34
+-10
+
+Passed:
+'E'
+36
+16
+
+Passed:
+'\999481'
+12
+-37
+
+Passed:
+'\141159'
+20
+-26
+
+Passed:
+'T'
+-39
+-18
+
+Passed:
+'\1095431'
+30
+-4
+
+Passed:
+'L'
+39
+27
+
+Passed:
+'q'
+35
+-1
+
+Passed:
+'R'
+2
+-9
+
+Passed:
+','
+34
+38
+
+Passed:
+'3'
+48
+-7
+
+Passed:
+'Y'
+-3
+-43
+
+Passed:
+'3'
+-35
+-9
+
+Passed:
+','
+21
+-4
+
+Passed:
+'\1038127'
+20
+-14
+
+Passed:
+'<'
+47
+-30
+
+Passed:
+'n'
+41
+-45
+
+Passed:
+'T'
+13
+-2
+
+Passed:
+'Z'
+-25
+-27
+
+Passed:
+'\n'
+-49
+17
+
+Passed:
+'\1077966'
+59
+-35
+
+Passed:
+'\1049884'
+-29
+4
+
+Passed:
+'\204168'
+-56
+-26
+
+Passed:
+'['
+53
+-16
+
+Passed:
+'['
+9
+-45
+
+Passed:
+'?'
+-26
+-41
+
+Passed:
+'\60142'
+-6
+-12
+
+Passed:
+'5'
+-54
+8
+
+Passed:
+'P'
+-4
+-19
+
+Passed:
+'"'
+-8
+-29
+
+Passed:
+'\1066202'
+-53
+15
+
+Passed:
+'U'
+20
+71
+
+Passed:
+'L'
+71
+-37
+
+Passed:
+'\EOT'
+63
+19
+
+Passed:
+'\SYN'
+-6
+-23
+
+Passed:
+'a'
+-56
+-74
+
+Passed:
+'5'
+-58
+-6
+
+Passed:
+'2'
+-35
+-60
+
+Passed:
+'='
+0
+-13
+
+Passed:
+'\\'
+44
+-27
+
+Passed:
+'\DC2'
+41
+-9
+
+Passed:
+'\1048903'
+-11
+9
+
+Passed:
+'\b'
+22
+5
+
+Passed:
+'\a'
+-2
+-70
+
+Passed:
+'\1018972'
+-45
+25
+
+Passed:
+'h'
+54
+-50
+
+Passed:
+';'
+17
+41
+
+Passed:
+'\1036029'
+9
+60
+
+Passed:
+'7'
+-39
+-30
+
+Passed:
+'\131953'
+85
+-7
+
+Passed:
+'g'
+-44
+53
+
+Passed:
+'\159019'
+-84
+-20
+
+Passed:
+'\69741'
+18
+5
+
+Passed:
+'g'
+-43
+45
+
+Passed:
+'\134234'
+-23
+-22
+
+Passed:
+'@'
+13
+83
+
+Passed:
+'K'
+-19
+91
+
+Passed:
+'\SUB'
+52
+34
+
+Passed:
+'\1019714'
+-67
+40
+
+Passed:
+'8'
+54
+-41
+
++++ OK, passed 100 tests.
+Passed:
+Four 0 "" '*' '\NAK'
+
+Passed:
+Four (-1) "" '\1103590' '/'
+
+Passed:
+Four (-2) "" '\1058112' 's'
+
+Passed:
+Four 1 "\983043;" '\DC2' 'U'
+
+Passed:
+Four 2 "|\NAK" '\DC1' '\FS'
+
+Passed:
+Four 3 "g\57997\ETB" '\177190' '\''
+
+Passed:
+Four 2 "5\29853\25942" '@' '\NUL'
+
+Passed:
+Four 7 " R\DEL" '\1005549' '\69873'
+
+Passed:
+Four (-3) "\1099672Tv\1080421u\1108895|" '\1007073' '_'
+
+Passed:
+Four (-9) "R\146941\1003963\ENQ^\127274P;)" '\EM' 'u'
+
+Passed:
+Four (-10) "#J\986844J\1057261_\DC4" '\DEL' '\147799'
+
+Passed:
+Four (-10) "q\SIo}\143932A\v\DC3" 's' '>'
+
+Passed:
+Four 1 "\"\1003973" 'b' '8'
+
+Passed:
+Four (-13) "Q\111252&y\1029602K&uwZ\1111212^" '\30165' 'o'
+
+Passed:
+Four (-2) "\169124v]Q7\165144\39120" '\'' '\FS'
+
+Passed:
+Four 8 "t\984761\1113531D~\f3'e\DLEL" '\139197' '\''
+
+Passed:
+Four (-10) "6\1007643" '\STX' '\1042119'
+
+Passed:
+Four 14 "$\tmD\FSx\CANoB,\140688\996486" '\178350' '\t'
+
+Passed:
+Four (-9) "+,\EOT\1085126\22901\166148\204280_r" 'd' ')'
+
+Passed:
+Four 3 "\1005436\DC11\185938?v%.\"" '\1006951' '6'
+
+Passed:
+Four (-3) "" '\EM' '\1088997'
+
+Passed:
+Four (-1) "" '|' '\DC1'
+
+Passed:
+Four (-9) "s\34925\FS\ak|\DC3\989895" '\1004401' '`'
+
+Passed:
+Four 17 "\a\"\1078625\1071534\DELV\1027995&CF\FSB" '&' '3'
+
+Passed:
+Four 19 "\137702\1077693_\1038811|`\983482\146530\51991" '\1082409' 'c'
+
+Passed:
+Four (-5) "\1087427\&2&\1067225o^T\rn\998373\26990\NUL~^6\165947\&6E\SUB\ACKk ni" '\186881' '\1055032'
+
+Passed:
+Four (-3) "}N-" '\b' 'i'
+
+Passed:
+Four 16 "\1015228/nI\1030773ld*:\991443gs0\1023448\1033392\97754\NAK\151962\44021" '\1015066' '!'
+
+Passed:
+Four (-20) "" '|' '\\'
+
+Passed:
+Four 18 "{\70685N\NAKw\65805Ls\1037851>\176177\&5y\27602\94659qP\1025651\1105681xv~" '<' '%'
+
+Passed:
+Four 13 "D\DELB\DC4\137316\67717\b\EOT%rA\27128*X++~U,\SOH\ETB\1068555\1022989~9" 'K' 'u'
+
+Passed:
+Four (-27) "\137399\t\149248\1075974y\v\1026473U'\DC1xQ<WMxO\r\124124r.>(\SYNeZ\DC4" 'S' '\16345'
+
+Passed:
+Four 4 "X}\144241k\995557\169669\987397#!\157215b=do" ']' '\4140'
+
+Passed:
+Four (-20) "<BMt\DEL\150637\997166\13566r" '\1582' '%'
+
+Passed:
+Four (-27) "5\1080566he\rU\157789\NUL9\SO\SIZ{\154695\DELe8~" 'k' ')'
+
+Passed:
+Four (-33) "+Kw\SYNB`\158206-" '\20539' '\US'
+
+Passed:
+Four 1 "$\SOH#Nc\DC45P\62670i\nr]!\"\185612\22567h'jk\1008509Z\53901#\147782\t=2.\19069G-5U" '\ESC' '%'
+
+Passed:
+Four (-36) "'I\152821\EOT\66371\18529.\164492\18660*" '\SOH' 'q'
+
+Passed:
+Four 22 "H\27542in" '0' '}'
+
+Passed:
+Four (-11) "\119823K_\131213%\FS\1061294\NUL\GSA\1093836Id\ESC\STX\181186\&0\EMssm" 'y' '\NUL'
+
+Passed:
+Four (-19) "" 'E' '\ETB'
+
+Passed:
+Four (-2) "\DEL54\1032032\1056908h\60420w\DLE\141830. )\45874\52863IR\ETX\165825\1074138\RSL'*\1075209\SYNS}*>g\FSmh5A\97328Q\189960\78363\1081816" 'd' '/'
+
+Passed:
+Four (-6) "\1109332T)Q!f\17283+\1010371\1105618\22714\1075712\DC2\ESC}\DEL\137953yj/\CAN" '\142698' '\31122'
+
+Passed:
+Four (-23) "\178106\ETB\RSL\NAK;7\NAK\1098765\ENQpp\ACK\SO*\995229Q\1105394\SI%?\STXsrh" '\1032141' 'q'
+
+Passed:
+Four (-36) "\1103446w\1072983\1072417\1024978\1074816" 'P' '\1107615'
+
+Passed:
+Four 12 "\198404]B\GS\146642\SYN4!e\1074874L<nZ\17552$\n\164986c>=;\1028919\STX4\FS\1049384\166457\60072*+N0\46175\EM\1103612`W" 'h' 'O'
+
+Passed:
+Four (-25) "hoR@NI\1006651\DC3\f\186740o\RS\1094717\988945=\8236\917872r\ENQ:\1037760p\78362L\b4COg!%\1071265{;q;\2756*\1021489_" '`' 'B'
+
+Passed:
+Four 15 "\1032822\&9\201523FcEl\1103370\ETX\1033460\EM7~\58881B\GS\n:\STXG\993213\EOT>\38530/hT=" '.' '$'
+
+Passed:
+Four 11 "" 'i' '3'
+
+Passed:
+Four (-40) "I=|Erl>\NAKX\140060\146214\&3\ETX1\202343.B\b-HW04&\993716@N\a" '/' '.'
+
+Passed:
+Four 15 "Z\1053212d6`M" ':' '}'
+
+Passed:
+Four 28 "\"-\1027231\1039990\RS" '\EOT' 't'
+
+Passed:
+Four 4 "E\SIjJ\1020766{69<&'\1026913t\NAK\DELEF_Pky\160488\41365\1096588\147128&r\1044000" '\67256' '\a'
+
+Passed:
+Four 40 "\48268\r\149409L&*9./X'|T\156502)\164600\RS1\SO1&0\r\FS)TE\US\1038978\10097gY\69812{\139585\NAK\n\120788JG\191499[)G\NUL0H\\{=X" '\983373' 'O'
+
+Passed:
+Four (-21) "\1017744*\NAK l\1025485\1095171+n~\ACK\1003731\ESC\74375\&3Za6\r\23609\1015133\DC2bax\150507v" '\168234' ')'
+
+Passed:
+Four 16 "\1071158[i6X;\95580\RS|P\DLEz\181737:\n\EMDF\1099978d\aRw)s\152268`x\1030222\DC2f\162705\8066N%L\127962\46179$0W9\SOH%R`!V-\EM" '\ETX' 'F'
+
+Passed:
+Four 10 "\51381M\1059626\1059294u\1035915\&1k\1046131[=\986579\&7\NUL\128635\994547\172806\&4\169164\FS/x\EOT\1040085pxb*)=Kh\GS\145573\995015f>P\EMZ\1037650\1031986\119197;D\46181\120044b" 'l' '\69688'
+
+Passed:
+Four 13 "M\1063308_CRS\128187P\DC4sr\167714\1091881s\1112415/*R\CAN0r0)\US\SI-\1057003\SO" '\985177' '\NUL'
+
+Passed:
+Four 26 "\1079671\1014546`x U%?_WR\RSA\1054590\GS\SYN3R\58773f=B\198048x\RS\177139\&6F,P\190224\NAK<\58296w3\190486\f\172439O\101446\190044A" 'C' 'p'
+
+Passed:
+Four 41 "\rd6H&\1112272F\n\1112162P4\134685\135669&\ESC\145330`\1049253\&1g\1062600\DC4;\1061938U\SOHM\1110788\STX\152574\"6i%u\1089011\FS\39101\999737-" '\\' '\b'
+
+Passed:
+Four 46 "+Gu\61281\34315\996457\&4\989327Q\US\SYNKQ\SYN\EMw\127102.\992835Hx\1077911\1032818;\987110\29819\1010118fW\DC4\1047252\51716 n-En\1102231D\v\1047354P\159703\RS" '\68810' '7'
+
+Passed:
+Four 43 "\150857nZ\STX\171942:+$\998815\1107759xa\SOH6O\\F\ENQ\\Q\fy\161859\FSEO\95491\SUB\1079056<\t\187681e" 'o' 'E'
+
+Passed:
+Four (-49) "\141870hZ\\z#\205306J%f`\RS \ESCT\\2-\39222\96787\a\1096867k'b" '\72806' '\ACK'
+
+Passed:
+Four (-33) "\EM\1054046\DC1o-\SO\DC1\18973\188974\&4e\1099136J\US\1055772\US:\1059142Sd\154687pX\97569\3632YZIq\46948\&7}" 'V' '3'
+
+Passed:
+Four 44 "\DC4 Rod" 'z' '_'
+
+Passed:
+Four 37 "S]y\DEL\182308\NAK1tr\38476\EM\1001130\1094253~4Xl9O\1084595\fWVg\143189,\145536\33389\ETX\SIfAs\NAK_4S#\"S\21872N76~\175491\161317@\984889=\96354\DLE[ " '"' 'Q'
+
+Passed:
+Four 36 "0\1091286\1069910] ;:\135474-\1033154\"\DC1<T\167100#\DC4\21108\SYNj0m.\DC2\1009821\1042148~Mza}.H?\129421n*t8R\1108433&\177465,M\DC2I]\1102716Ly\23767\"\132239D^P\999506aLK" '\SI' 'V'
+
+Passed:
+Four 19 "\GSe\CAN\153321+\60177\SI\ae@F\1044536\998782\1011564l:\SYN3\160625\&7\ETBu}\175476\96280\199842[-R\SUB\128816?\1017456\13744\1004992\SOH(\52184\27847\21415\144026\DC3\SYN\1100024lz\1085224\b\138989\1067680/n" 'q' '.'
+
+Passed:
+Four (-3) "\DC12;R\ETB)]~5\\>oQ" ';' '\ENQ'
+
+Passed:
+Four 55 "\DC2o \DELVxoR\SYNC\1066951u" 'F' '`'
+
+Passed:
+Four (-20) "\1068099UwU&q\vNa[\1036677J\984843\&3\1098041\141792Y6m\DC1\STX#kD2|.C\1015734\&1!j\US" 't' '\92846'
+
+Passed:
+Four (-31) "\DLE\DLEI\SI^P'\126509!h\DLEXw\bX\57370\998082\1035202E\1007547S\ACKC\nUx\1082007\67480`]\996178&\a\175892DQv\8377\NULg\GS#o#" '\1019839' '\1084028'
+
+Passed:
+Four (-31) "" 'j' 'v'
+
+Passed:
+Four (-33) "|\1083334\46857" '\ACK' 'g'
+
+Passed:
+Four 62 "\ENQ7g\1026274y\ENQ/o@V\DC2>8\5770b2\GS\198893\1040787A\b\ETXZ\52422\DC4\37301q\187668\n\1112227-\4986|\FS\SId\120967-1DF\SUBW8\1000152\NULJ[p\b4vU0\1090635YCa\DC1\61616*\1079525[G\54894\988178" '\1071029' 'o'
+
+Passed:
+Four 17 "BP^" '&' '\r'
+
+Passed:
+Four (-50) "G\\T\1055114\EOTH\1062010<On\NAK[sD\1039996$yy\DC4%J]W\986387-G\RS-W\1088501\DEL\134098\fxY\205290\1095768\\u\10048)X\1107747\1097433gZ" 'Q' '<'
+
+Passed:
+Four 23 "\1020150\&9\150539cg'$-\t\GS\1113895^\SYNuF{\RS\138261\\\143183\1026949\1035861/O[o\DEL2@\r" 'N' 'd'
+
+Passed:
+Four (-62) "v)\176464\&26\118835C\NAKEEN\179397o/&\NUL[`v\ESC142'\ACKU\197381u\25084\CAN\DC3\53761G\48287\1102951" '\199503' '\25924'
+
+Passed:
+Four 58 "\r\74086b" 'C' 'f'
+
+Passed:
+Four (-77) "zc\991238\204140$8HrQ\67611&\150980RH5\181012\FSFC\"" '\198689' '\1048615'
+
+Passed:
+Four (-79) "w@\SOb6\41825a\62824rrp{\aK\ACK(\172840gX\1037564~\153455K\180442XhY\31993\NUL-\FSX\1087398\34519\&7\17874\&1\DC4\ETX\1086435\58831\vf\STX:\NUL$\DC2-7\1099177N+W\27240ydt?\ENQP\144098\20856n\DC1e\ESC\1058662\ESC\SOH h@A\1044969\1092873RLF" '\49195' '6'
+
+Passed:
+Four 31 "eOr87\RSB\f\179618\1105890A#b&-\1028120\SI\190111\&4" '|' 'H'
+
+Passed:
+Four 57 "\199205\15332\119302 \1061453" '#' '\NUL'
+
+Passed:
+Four 48 "-[!;\CAN\3146\DEL\ETX\1036225\7092F\6347:\DLE\149956_\DC1\NAKX~\t\DC3x*//3f\1072753uv\NUL" '7' 'K'
+
+Passed:
+Four 80 "\SOLdi\DC3\1095696c\164371br\EM\ENQ&cIe\abU5d%E!ZN\183514!\CAN\18164e`y\35568\1027473,\EOT\SO\vg=X\158232\63833\STX$m\1023908k\EOT\DELaoK=[\SOH\1107387\1095632\b \34314Aa\ETX'\DC41z\EOT?`\DC4 YEf&<6\1025641\a^" '9' 'c'
+
+Passed:
+Four 85 "\DEL+\NUL\SO\139191nQ\SI/\ESC\134352\6615<[89\38996b\204811gy'aE\1053729\&7Ej\1095544L\DC1!P`U*\1055487OdA\1001619;\RS~D\67614\143815\65191R\141530\29885E\t\1050690Xuz\1014656\1077993DJZ\189812y\19625/O{w|\1027275" '\132042' ','
+
+Passed:
+Four (-20) "\RS.\12243\1045783).i\30658P%\n\ENQ\128505h\ACK*\1044623\98721Q9O\SUB\1113065q\1054687rA\984758\1097312[S\43983Cg\DLEr\158358`\1023139`\SYN" '\43266' '7'
+
+Passed:
+Four (-24) "[|\NULB6'\ESC)\SOHqz\1086169KMdH\NAK\DC3b\1065049\147942&C~\SO\151056\tH\74228Ggv" '$' 'X'
+
+Passed:
+Four (-35) "vm\f7@\45277\1091527C#\ETXIc<S\985130\&5<#u2-\t/\SOHN\1075105\&7\ETX\GSI24(\994151\1059444\&5G^H\37089\7614tE" '\53494' '\NUL'
+
+Passed:
+Four (-88) "G4\171237x#o:\NUL#9ySv!s~m@I\ENQmv" 'y' '['
+
+Passed:
+Four 74 "4\31176\&5\51476\SYNV}\nkX\n\1008795s\STX3M\1089192;4\ETX\US\"\ENQ[\1063487\159724uY\NUL\n\1064239x\NUL" '\NUL' ','
+
+Passed:
+Four (-59) "\1032514bDb\NULC\186322\96901s\STX\1069869\1104327\78708T\197635,\\\1014334\EOT=Q\1024574O\11557_\STX.$\CAN'\\\SO\ETBP8\bt\64063\1030947j\172677,1\1070881lI}R$6c\127807$\1051488rS!>^\188755\DC1t\NUL|\29222>\62247J\147555Xs\1078696A\100561h\1093392O\39069f\DC3\1055249\r\160309m$\v\SUB\DEL" '\DC4' '2'
+
+Passed:
+Four 27 "h_Ex\1025891W4?<<z\165560Rkr\RS^R\144735Y&B\fQ\aN\160434c/\SYN\45336\124965`2p\139266@Ze\DC1\DC4\SUB\164712\1001678\&0ED\97799rv7\200403_!\152129z\1007255\170420\42221\154964c\b/[`Vr\1010170/G\17354\DLEe\1093847\1098534\fM-\1058312\139916\48434Kw\DC2y];\EOTV\1000327" '\24623' 'e'
+
+Passed:
+Four (-73) "\42132\ACK\RS\140495\994055~s\DEL\RS\NULk\198968\1044806*\SYNX_a\DC2S#dH\DC2vV>M\164238r\DC2" '\132878' ','
+
+Passed:
+Four 83 "<+\1073593+`be[l#\rN'\NAK\NAK)Q\\\SYN\DC4j\78777\&9E\187547J@(\994543/F=\1038968VwgL\FS\ESC\158591\&2\160796;\1084088\NAKo\SUBMk\bw\DEL\STX7\78201" '\1023259' 'x'
+
+Passed:
+Four (-20) "\176387o\t\1105426N\29489\NUL\SII\17288np\NULjh\STXC-\ETXKB@=\ENQ]M}\nN\bZf\34451\&5\f\t\1087857\DLEO\188247\t\78789K#\1024625_;g-\131327T~\186890\34090\191815Oc\ETX\66950[\ACK\txC!u\139398Gz3,?+\1072698\t\99405\1025774\134037\FSQRv+%n%\133774\b\93954\RS\\g\1088870\1091487\&1" '&' '\DC3'
+
+Passed:
+Four 88 "h\28009\DC49v\v(\152080X6}Qrb\96136hNXc^\1081228B\r0\ACK&Zl\t\CAN\142470O^<\983524\EOT\52163\SO=\1028691\&9Y8\SUBT09.\ESCT^5\SO{\189577O_\DEL-\SYN\SOH\29158@;\991369}\183738\66195v}X(\120479\1072505\8140V\176621=c\135914\54166ILD\1084391" 'h' '\ACK'
+
+Passed:
+Four 14 "wlkFqmh\1103987R" '\1080705' '\DC3'
+
+Passed:
+Four (-93) "\DC1s/#(:%b\30555p\EM3{\1093449P^%X[Q_UM\SUBm\135159\1088970\70700Lk\998599}_\t%\FSv\SO\1076678\ESCy\rj=\EM\163489\&6\1064462" '\DC4' 'm'
+
++++ OK, passed 100 tests.
+Passed:
+'\6727'
+""
+True
+0
+
+Passed:
+'2'
+"\1032291"
+False
+1
+
+Passed:
+'\DC3'
+"SI"
+False
+2
+
+Passed:
+'\f'
+"\1062938"
+True
+0
+
+Passed:
+'o'
+"\64654"
+False
+-4
+
+Passed:
+'\DC3'
+""
+False
+0
+
+Passed:
+'\987294'
+"8\DLE\b]"
+True
+1
+
+Passed:
+'.'
+"pC\96950\NAKk"
+False
+2
+
+Passed:
+'\35483'
+"va\29406"
+True
+3
+
+Passed:
+'\''
+"\64403\&3\ESC"
+True
+-6
+
+Passed:
+'\1014348'
+"\b;A"
+False
+-7
+
+Passed:
+'{'
+"\175582C\ENQ\DC2i\1026503"
+False
+-7
+
+Passed:
+'\''
+"b"
+False
+11
+
+Passed:
+'\DC1'
+"J;"
+False
+11
+
+Passed:
+'h'
+"9#\NUL<\46881Vmm\NUL\1021042\120910"
+True
+-3
+
+Passed:
+'p'
+"\1054819\31545\&2\1083365K\1094891N*K6A"
+True
+-4
+
+Passed:
+'\54382'
+"\140854\32130m\147224D\1074521S"
+True
+4
+
+Passed:
+'\191923'
+"\135178\a\1029053\162250\aB4\EM\ESC"
+True
+10
+
+Passed:
+'\DC3'
+"%\b_S\22313\101563{\172083lr\1089063\1108408H@N\ETX\10852\DC3"
+True
+-6
+
+Passed:
+'Y'
+"go\DC4\1054072do0\1094397\SO\DC4vK=\DC3:\43309N"
+False
+10
+
+Passed:
+'D'
+"\"}\985744\1049717eseF\b\DLE"
+False
+4
+
+Passed:
+'!'
+"=\1088160\STXh."
+False
+-10
+
+Passed:
+'\NUL'
+""
+True
+-12
+
+Passed:
+'\1041351'
+"\vr^I\27022\133498x\SUBY\1096945\987854\b"
+False
+13
+
+Passed:
+'\1013453'
+"ND&:cA`<\1023711\1028369\177225c^a\7288\190887h\1028699"
+False
+-9
+
+Passed:
+'\EM'
+"\64444\t\NUL\STXc!b\GS\\\1055364V\23242"
+False
+-20
+
+Passed:
+'\1015956'
+"\46972n(\1012467\1056664\1086119\RS2!U\GS\43384*\179272]\1034581\38369?Aw\62330R9/\1101814"
+False
+-1
+
+Passed:
+'\ACK'
+"AW\SUBN3\DLE\EM\fHMu\1079583l\202561\EMz\ETB\1049816m\33956/\183727\ETBB-"
+False
+-16
+
+Passed:
+'\205597'
+"bW@\SUB\19013u\ACK\1111475\156859"
+False
+9
+
+Passed:
+'Q'
+"r7~$3[\52626 8\"b*\1082218\ACK>P\SI"
+False
+28
+
+Passed:
+'\988141'
+"\70102\SUBcf\1063021Z\135506S\ESC\STX#\1059915m$\r\RS"
+True
+7
+
+Passed:
+'h'
+"\133876\143567JH\19199\1054800\1082914x\ETB\126074h"
+False
+-3
+
+Passed:
+'.'
+"\ETX\99930\n{H\984002Q\SYN*\987249'h\176877\95665t&+y\ETB\1089979"
+True
+23
+
+Passed:
+'\SOH'
+"L]\184899&\RS)w >\188258\167799eQ\b9z8!\143298Z;~-\1031506\&8\DC3/y"
+False
+-28
+
+Passed:
+'\59756'
+"\28572\1023873\984630\tDhN\SI-e E\DLE\26143\24498\DC2*\110837L\STX(6d0\DEL6\b|\EM"
+False
+4
+
+Passed:
+'\110618'
+"\183042z\1110598\&5UZ\RS\ETX`\SO\138142I8\37881\NAKy\194588\"\DC4"
+False
+10
+
+Passed:
+'O'
+"\201970sEi&zE\143472\985978\",\145402\190849\&5\23530Ie\1001341z1\1098698\a\27405\64529l\1051339U\66927\RSW\158914<\153545lg"
+False
+-26
+
+Passed:
+'\CAN'
+"i$\52179{\RSY\154736\ETX\135716E^\r\FS<\DC1\ESCY\4548\&4\ETX{\1106452\EOT\1093129"
+True
+-3
+
+Passed:
+'\40781'
+"\61154\NAK\\\1102919{"
+True
+-16
+
+Passed:
+'$'
+"_\1040409>\ESC*<m\1031740\5860\7472\120258>u lX\132412B"
+False
+-28
+
+Passed:
+'?'
+"/\STX-\ETXa\21364\994669Ub\RS^wy\26553\NAKy\176529\1043665e8m\\"
+False
+16
+
+Passed:
+'\n'
+"\1105253V?\1105069\995316|\1044428\CAN\ESC:\CAN\SYNsF\1002608G_\DC4#\NAKZ\148338!\1029400"
+False
+-29
+
+Passed:
+'F'
+"HZ2\113812\ESC\18754a]\SUB(,:\1094919\1006162UcSI\149243L\128060[\171825Nf>\EM\\\154371\1058604\141928\153916\nF&`n"
+True
+-34
+
+Passed:
+'X'
+"F~Yl\v-FHI"
+False
+-5
+
+Passed:
+'\SUB'
+"{\178400\1112469Y\1075886]D\SOHd\v\SUBt\47685\RST\v/\1060371\1109919\a\20491u\vXr\DC2\DC3\1093153+\NULt\1094738c>{\10457\998882\n\58627!q\STXI\1044497"
+True
+35
+
+Passed:
+'\1063062'
+"X\1086993\&3\1047759\b0f\4018%\169023\r/p\39445\128661\198603f\a\DLE\DC3\1110107AT:7=\997915"
+False
+-43
+
+Passed:
+'\a'
+"O-v`\1104459O\22611?!\49315\74301\195052\404I\DEL,\SOH\ETX\bP\984234"
+True
+-2
+
+Passed:
+'j'
+"<\48393K\GS]\134672r\ESC\180646\SUB<\DC3q\b"
+False
+-41
+
+Passed:
+'\RS'
+"B|J\1094626!:`\1039337\EM$"
+False
+13
+
+Passed:
+'\DLE'
+"\SIC\984864m?\173782\989232\f\SUBnj\v%\35639s&\EMD\SYNoT\987953 \EM^\200537U\1073608\ETX\23069\DC2C\119040v\tL\1077691\118969\RS6s\1034691r\SI3r"
+True
+-34
+
+Passed:
+'\1074598'
+"\16860\STX=?}\GS\DC2\b?\DC4\1042547O\70110\196839qEwg/?"
+True
+-16
+
+Passed:
+'x'
+"*L>n\1051458=cK4~9\200000_\STX\DC2.\20838\166713\185731!."
+True
+-49
+
+Passed:
+'\\'
+"\r\v\DC4\ACK\187255I\993079u\SUB\1020408\1012773\159400[PV\47441^\CANO\132748jl\177222\5496\tc\165250jr1."
+True
+-24
+
+Passed:
+'X'
+"'\71719\58958M\52025k\41196+\"oi\136081?4Gb\53678\144323\179076\&3t\78740\1042139"
+True
+-1
+
+Passed:
+'\1110432'
+"\1098970\1084217\1001763\DC2 tfZO\157264\NUL\128204j1~h.]\1043624N\7942\33574\36903Y{C0/D$o:p\167451b62P\CANF\SO\164286/"
+True
+-20
+
+Passed:
+'\\'
+"\1079943$(L\ETBKI\r\DC4\1082702\FS\aoQ\132503 #IO\198199\f"
+False
+-43
+
+Passed:
+'\a'
+"\146457XEo\174450?"
+True
+54
+
+Passed:
+'S'
+"3\1023134wL5f8gG\182341\t+\EOT\ENQD:\15300-f"
+True
+-27
+
+Passed:
+'d'
+"U\73684eN\1093696&G5`'jj\1093570\&9\ENQV\SIT\1018225\1046666^=$xI\143481\SI\"^D<GT0\1073341r<a\t\SI\DC1c\1093530\1086893"
+False
+-7
+
+Passed:
+'1'
+"\1016241\1071896\25634S>f\SO\1031226ht8\b8\1083527N\DEL!r#+\11254M\64763*\1086342&E\1034206Y@gE\137087"
+True
+-40
+
+Passed:
+'|'
+"[\66771;<S\183670|[\r\1013567\&4\SOH<[\CANx\32031\29351f\65672\t5R\98022\GS\a!5\DC2\ENQw9\1112727\US\GS\169316g\1010209"
+True
+-2
+
+Passed:
+'\EM'
+"S\ETXqE\ETB/-?(6\176550)`T\95130t\ACK"
+True
+32
+
+Passed:
+'+'
+"\1106814\70385\DC3&r\35710\DC2^7XQ~\1086099E\1064408\DLE\23468B+mb\1066878\1025564ZQao\ETBb\EOT\1046628\1041617\&9u\DC4\n:"
+False
+20
+
+Passed:
+'\''
+"+\\~:\1016947\194812XDyj)]"
+False
+-25
+
+Passed:
+'U'
+"\177919\DLE\156263\1059641\DC3\ESC\CAN5\198291d\DC1\SO\SUBt=\bF\23374\198029\SOHy\1062042~a\DC1\28416\143453/\1091341k\ENQ\SI\26999N\1007567M\CAN,F%\DC2x\EM\SOA9'\985513\&4\GS\759+E`\1103024s\STXy\986827>b"
+True
+7
+
+Passed:
+'y'
+"!\157452\1029046\99019\25188?C\1103950B\1000952\175931eHN\1053948\17142E\52631xO\1018763YOG\39339\61256A\78197X{B\CANuFPIREgR\SUBW\1087994\DEL"
+True
+-1
+
+Passed:
+'\96417'
+"[T2V\n\DC1d2A\1078357\GSR\1098189;\RS\NUL\ts\1009263\ETX\143057\1102093\&0gp0\30887GQ\1064553\ENQ\78493\&1\DLE\74523\DELD\DLE\1074516\&8\1027188\55066,\DC4~\FS\v {[\GS\DC2L\CAN\139101\&2k$\EM^y"
+True
+-57
+
+Passed:
+'\n'
+"<\EM\1019248]\14561\&3\159271\29566\204430w%X\n\1032577\EMQ4_"
+False
+61
+
+Passed:
+'w'
+" Y)\ESC*"
+True
+-66
+
+Passed:
+'\FS'
+"ccaAe\n\1018722F@\SOF(\ESC0\va\STX>\1032793Z\ESC\171437M\1048290\1061636\&0\174884]g\SOF"
+False
+25
+
+Passed:
+'#'
+"w\DEL\1077787;\FS\60398\DC4\146254\&3\tP\997476yG\NUL\182308\NAK\SUB~\204834eb\40605\1079621\162100#\SYN\917568$\DC1\1107341\1067498=\EMye\987327u"
+False
+-45
+
+Passed:
+'\1107267'
+"\139838\120865\73110\RSl\168470\CANhk\62646|C\1097838wQ$;|=\168033V;\1058953I\SYN(\988261\&5\FSU\ETX2"
+False
+8
+
+Passed:
+'\48163'
+"x\1071508t6r\53809\26639\SUB\1002575QwCUprc\36833\95981\EM\1079394q\SO\1099205\189367|@)\STX8S\61503\SOH\44357Q\US\ETXo\176739\1066770Kh z\989763\40229\1052837\SUB\59897\196940\1111809\ACKBe\ACK\FS\CANzX\NAK\fx&\996630\1088787\DC1V8!\143269\DC4"
+False
+64
+
+Passed:
+'\1018759'
+"z~u'%),B\1026865\DC4A:m\172032v\SUBqM\DLE\11651a\\\\u\FS\993520\&7!\187272q~\1097345\SIx\1109127\&5\1000554&\"\1071333<C\30469\144155)y\NAK/"
+True
+-34
+
+Passed:
+'L'
+"\135846=\DC1_L\ESC$\131736\150200\1066047\991347]\993274An\DEL*P\GS+==yV\171188\DC4~HE\1000847F\170300>$\1046406\12752\DC1\r\1076205\a\159904\b\57733^\1093587A)\FS\SIp\DC17^"
+True
+41
+
+Passed:
+'\1029985'
+"@u\b\997870,u>\151390\SI}xu\6422M\NAK\1077547\&4\1029944O]k\160033\175867~\EOT\ESC\ETX~\1062543?+AD\DC4\t\ACKH\a:Ei\n\50982[\GS%\1037305\SOH\SOi\ACK=z\1099551N\11023\EOTv\DC3k\FS}xC\DC1"
+False
+47
+
+Passed:
+'+'
+"\61417\189591\1006297uDp\10521u\NAK\1112948\ETX\SO4\29146\FSx\SUBB\RSL=\FS\1020126~ x\159356\73963\189177n\NAKH\1019841!\DEL\36958v"
+True
+-73
+
+Passed:
+'e'
+"\1049910\54117ra!(\DC4\120193\11841\&5VP\SYNUxck*\119914 j\1089589u\DC1\997866\1112420\1010683\&7/\1067633.O\DELDQgH\SYN\158723_8\tf\1026537\39465\STXvZm\122652\1030584 a\983244\&4\DC2 j\997134PA"
+False
+13
+
+Passed:
+'\1070652'
+"nZ\1012585\SOH\996516\EM\1112807\v\1058384\92989\SUB\DC1\1025846l\EOTWl\162112j\1050997+^[Kt[\132704Q#\59312\983469k\DC1\SI\EM\t\152726#maioTt\1022749\f\21236\1021917\SOHY\t%\30312\3859\&9X\7262\DC3\1018461M!\990722aT\t"
+True
+8
+
+Passed:
+'F'
+"\1020120^i.,\SO3\47293]\EM\DC2K\SOKt\1089057\1013338\13634sJ\RS\45350\&3(\127887\12069&\1027200J\SYN%\CAN\1108528a\ETB\f\EMH\1024751tEK\NAK\1036402\1025083\\e"
+True
+-63
+
+Passed:
+'f'
+"g\1034976BR$\t"
+False
+-11
+
+Passed:
+'2'
+"\1004117Y\988923|>:\1029723,\32145\DC4G$/\EMa\152923tKd9`\f/\37271(LWR\a\983046^u\STX\no\1083890:\SO>(tWx1u\37366\&5-K\39761tU\SOH\16914\200163P\35368\CAN\ACKU5\171309\169653.\ENQ\1108413\110849(w\SI]"
+False
+-1
+
+Passed:
+'\136673'
+"y{Gr\65692\1087227@\985614\GS\CAN{\2866\2715\51718\&9\ACK\55062o\1053386jQY\58402\22826\f;{"
+True
+55
+
+Passed:
+'\182181'
+"*A+\203310\&0\DC4=\NAK\62010~\100679=\ESC?\GSer\1107407\995733 "
+False
+-8
+
+Passed:
+':'
+"\137438\40134\DC4Z\n\ETB\12982!p\186215\DC2avz\1090229\1067057)G@\SUB\188318\1107932\DC3VR\1028838jb\1025946'\1057334`~h\51229\r8K=\92427\&7"
+False
+-27
+
+Passed:
+'\SUB'
+"\1098023G\178960T]r4=\33318\1100806Q\"\198135\72743~\1086785M0FK\ETX\RS|f\176629\bA\1025653\1038387\&2"
+False
+72
+
+Passed:
+'~'
+"e^s\1050391\1022878\1012031\1012028j\tG.\182805oxY\FS\NAKO\125025\996537\DEL\SYN\SUB.\US'"
+True
+45
+
+Passed:
+'g'
+"Chg\ETBH?K$\187295+\DC2f\177436\&8\r.\143171}`H\995682hf\189287\54130\1081557\1082696\DELf\196817\SI9\NUL\ESC=?\r9\"\28979m8A\ACK}\170888\52598!\1034325#\GS\RS5Y\1005364\GS\STX6\999731|\199300 \1014678"
+False
+-10
+
+Passed:
+'\GS'
+""
+False
+-23
+
+Passed:
+'\1078708'
+"qh9,Slr\faQ7\1019210)\1038768\NUL\a}#\1103727\ESC\SIf\135238i`"
+False
+-71
+
+Passed:
+'\ETX'
+"A\1078654w{\GSr\SO"
+False
+50
+
+Passed:
+'K'
+"\51967\19678=E\DLEe\"\a\7970cw\1002041\1042905"
+False
+18
+
+Passed:
+'\1096657'
+"\952\STX\1089204\&6\39424.6\DEL\1091923\63365\t\159833i,\1050350\\7\1079358\SI0oM\62151TU\"\ETX|\f\156252\1051025K\RS\1026079;IUU\153480m*KA\1020401 ;+\135522A9\ENQ)`!u\147424\ETB<?3\ESC\145370\1015371.{&C\57767\SYN1\v\1035623t)\DC3\1086836N2C\NULd"
+True
+-23
+
+Passed:
+'\185281'
+"9K"
+True
+-72
+
+Passed:
+':'
+"\EOT;\n\72745\SYN\DC2s\SO,\182991\189498\DC4\\0N\1024061\141545-jD\1085399/ d :\1074675\DC4Y^N'\STX\984094`\ETB\1063594\EM\997700Bq\36553/Nvk\54826Y(TEn\1011315ohJD\999220\8762i\1088135~ \STX\CANTp\EOTSu\\\DC3[@(|N6n\1005348"
+False
+18
+
+Passed:
+'\ETX'
+"\1019693m\1060007\b\fD$!0.\b\100497\1088750lC\DC2+G\SO\NULh\SI\1081902\1039168/~\1052485\DELw\1091410\152225K\GS\33045"
+True
+-55
+
+Passed:
+']'
+"\DLEi\1020288\1021046\1051268]l\DC3E=\1091659\1109416/\1079040k\DELCp\1010448\ESCa2'\1108193oR\1062663\154370\1023589Lo\ETX\1038361_]\ETB\SYNFa\SYN\1009148\1104359E3U\994866\1067829w\US\ETB\ESC\f\1075896\EOTFxg\NUL"
+False
+-23
+
+Passed:
+'}'
+"\1037624\SOHa2_U\CANF\99410'8X`G_\59557\54199Ph\25691\1105769Av\144365\b\EM"
+True
+94
+
+Passed:
+'\1020267'
+"\197189o\SOH:]u\RS\1027412wy\a6[~\138040-\CANL$G\DLELRx\1083789S<\ACKU\ETB\"5#\ETBUx:\999715\ETXd\RSqgFNNC*\1077340,\1072958\1070833*\DC2\DC2\1013666\140506\1021299\1017566\12656=`P\1039858\SUB1"
+True
+39
+
+Passed:
+'X'
+"\ETB\26428\1108520\14493\FSs\b:\127462`\14902\1012621:)eW\NULp\US9-\53243E\fje\1106025\CANAk\EM<\ETB\SOHv\1104225 lS=\\<\83390^\1007355\vz\1094151\63089w\1041633\trp\SYN\1000311\38104e\RSLviH\65443\191437v\STX\143364pI#'n\155812Nj0\182723*\n\1103588W\1048155\40033\SUB\1106623\1009343\196725J"
+True
+-87
+
++++ OK, passed 100 tests.
+Passed:
+Four' 0 0 0 'u'
+
+Passed:
+Four' 0 1 (-1) '\1065384'
+
+Passed:
+Four' 2 1 1 '\r'
+
+Passed:
+Four' 3 2 2 'S'
+
+Passed:
+Four' (-2) (-4) (-2) 'z'
+
+Passed:
+Four' (-1) 5 0 '4'
+
+Passed:
+Four' 3 (-5) (-5) '\201092'
+
+Passed:
+Four' (-4) (-2) (-2) '*'
+
+Passed:
+Four' (-3) 4 (-1) 'n'
+
+Passed:
+Four' 4 (-4) (-7) '\995431'
+
+Passed:
+Four' 6 4 6 '\1051853'
+
+Passed:
+Four' (-7) (-5) 5 'U'
+
+Passed:
+Four' (-1) (-11) 9 '~'
+
+Passed:
+Four' 1 3 3 '-'
+
+Passed:
+Four' 0 10 (-9) 'p'
+
+Passed:
+Four' 7 8 2 '\\'
+
+Passed:
+Four' 13 3 14 '\1075811'
+
+Passed:
+Four' (-15) 15 (-13) '\FS'
+
+Passed:
+Four' (-10) 6 (-6) 'd'
+
+Passed:
+Four' (-2) 16 (-5) '&'
+
+Passed:
+Four' (-6) 18 15 '('
+
+Passed:
+Four' 10 (-10) 21 '\989051'
+
+Passed:
+Four' (-15) 17 3 '\''
+
+Passed:
+Four' 3 (-18) (-18) '%'
+
+Passed:
+Four' 2 11 (-4) '_'
+
+Passed:
+Four' (-11) 24 23 '\174774'
+
+Passed:
+Four' 20 24 (-25) '"'
+
+Passed:
+Four' 15 3 23 '\DC2'
+
+Passed:
+Four' 27 (-13) 8 '\1017884'
+
+Passed:
+Four' (-25) 20 (-11) '\1049170'
+
+Passed:
+Four' 2 7 (-10) '#'
+
+Passed:
+Four' 29 (-15) 0 'W'
+
+Passed:
+Four' 25 15 (-2) '\US'
+
+Passed:
+Four' (-26) (-3) 23 '&'
+
+Passed:
+Four' (-4) (-1) 24 '0'
+
+Passed:
+Four' 24 (-25) (-20) 't'
+
+Passed:
+Four' (-16) (-17) 21 'W'
+
+Passed:
+Four' 9 5 13 '3'
+
+Passed:
+Four' 35 11 (-26) 'l'
+
+Passed:
+Four' (-4) (-18) 12 '\1047082'
+
+Passed:
+Four' (-1) 21 20 '<'
+
+Passed:
+Four' 32 (-15) 11 'k'
+
+Passed:
+Four' (-6) 5 35 '\1008127'
+
+Passed:
+Four' 6 8 (-36) 'K'
+
+Passed:
+Four' 15 10 7 '\n'
+
+Passed:
+Four' 14 (-24) (-1) '+'
+
+Passed:
+Four' 12 14 38 'C'
+
+Passed:
+Four' 17 47 0 'k'
+
+Passed:
+Four' 21 (-10) (-41) '\SYN'
+
+Passed:
+Four' 20 46 14 '\SO'
+
+Passed:
+Four' (-30) 49 20 '\1008115'
+
+Passed:
+Four' (-5) (-12) (-33) '\1052202'
+
+Passed:
+Four' 44 20 (-1) 'v'
+
+Passed:
+Four' (-44) 40 (-8) '5'
+
+Passed:
+Four' (-47) 4 (-31) 'p'
+
+Passed:
+Four' (-45) (-30) 39 'c'
+
+Passed:
+Four' 7 11 (-50) 'k'
+
+Passed:
+Four' (-21) 56 (-7) '\RS'
+
+Passed:
+Four' 29 17 6 '\43832'
+
+Passed:
+Four' (-19) 41 59 '6'
+
+Passed:
+Four' 16 (-3) 22 '\49358'
+
+Passed:
+Four' 32 25 3 '\1015884'
+
+Passed:
+Four' (-49) (-29) 48 ']'
+
+Passed:
+Four' (-19) (-35) 22 '\1064959'
+
+Passed:
+Four' (-11) (-16) (-15) '\RS'
+
+Passed:
+Four' 2 (-17) 4 'l'
+
+Passed:
+Four' (-16) 41 (-2) '8'
+
+Passed:
+Four' 61 (-7) 28 '\DLE'
+
+Passed:
+Four' 22 (-27) (-4) '\CAN'
+
+Passed:
+Four' 32 (-3) (-23) '\186709'
+
+Passed:
+Four' 36 35 65 '\ETB'
+
+Passed:
+Four' 52 2 (-65) '|'
+
+Passed:
+Four' 62 4 (-49) '\DLE'
+
+Passed:
+Four' (-24) (-70) (-60) ')'
+
+Passed:
+Four' 16 (-16) (-24) '\1013550'
+
+Passed:
+Four' (-23) (-72) 63 '^'
+
+Passed:
+Four' 54 57 0 'A'
+
+Passed:
+Four' 11 22 (-46) 'x'
+
+Passed:
+Four' (-67) (-14) (-9) '\EM'
+
+Passed:
+Four' 77 2 36 'm'
+
+Passed:
+Four' (-23) 17 44 '.'
+
+Passed:
+Four' 47 (-70) 67 '\121229'
+
+Passed:
+Four' 8 7 62 '*'
+
+Passed:
+Four' (-21) (-43) 75 '4'
+
+Passed:
+Four' (-38) (-8) 54 's'
+
+Passed:
+Four' (-21) (-68) 13 'I'
+
+Passed:
+Four' 80 78 (-75) '\1087760'
+
+Passed:
+Four' 17 69 11 '\131764'
+
+Passed:
+Four' (-70) 16 (-21) 'G'
+
+Passed:
+Four' (-88) (-53) (-41) '\1094096'
+
+Passed:
+Four' (-45) (-81) (-29) '\1080194'
+
+Passed:
+Four' (-55) (-50) 59 'e'
+
+Passed:
+Four' 80 (-65) 49 'z'
+
+Passed:
+Four' 86 (-20) (-15) '\US'
+
+Passed:
+Four' 24 79 2 'u'
+
+Passed:
+Four' 28 15 (-8) '\65340'
+
+Passed:
+Four' 91 (-33) (-77) '\153055'
+
+Passed:
+Four' 34 94 (-38) '['
+
+Passed:
+Four' (-73) 60 (-78) '\9545'
+
+Passed:
+Four' (-74) (-98) 96 'a'
+
++++ OK, passed 100 tests.
+Passed:
+'d'
+'R'
+'\1092960'
+0
+
+Passed:
+'O'
+'\1043996'
+'J'
+-1
+
+Passed:
+'\146226'
+'\n'
+'b'
+2
+
+Passed:
+'\1080832'
+'0'
+'M'
+-2
+
+Passed:
+'a'
+'4'
+'-'
+-1
+
+Passed:
+'\46515'
+'\201980'
+'\996768'
+2
+
+Passed:
+'\181226'
+'\191783'
+'\1001269'
+5
+
+Passed:
+'\1111612'
+'h'
+'?'
+6
+
+Passed:
+'6'
+'x'
+'t'
+3
+
+Passed:
+'\EM'
+'\RS'
+'\65390'
+-2
+
+Passed:
+'#'
+'2'
+'l'
+-5
+
+Passed:
+'E'
+'\198074'
+'+'
+5
+
+Passed:
+'\44924'
+'\1095028'
+'\995392'
+-1
+
+Passed:
+'8'
+'p'
+'"'
+7
+
+Passed:
+'w'
+'n'
+'>'
+5
+
+Passed:
+'l'
+'\4044'
+'u'
+8
+
+Passed:
+'\NAK'
+'\DLE'
+'\139965'
+-14
+
+Passed:
+'S'
+'\65540'
+'\SUB'
+12
+
+Passed:
+'\78232'
+'G'
+'\54062'
+9
+
+Passed:
+'L'
+'\134212'
+'\32348'
+-6
+
+Passed:
+'q'
+'H'
+'\SUB'
+4
+
+Passed:
+'\DLE'
+'W'
+'b'
+8
+
+Passed:
+'9'
+'['
+'l'
+-18
+
+Passed:
+'%'
+'R'
+'\DEL'
+13
+
+Passed:
+'\SUB'
+'\NAK'
+'\1072091'
+2
+
+Passed:
+'['
+'^'
+'\7996'
+3
+
+Passed:
+'v'
+'\27206'
+'B'
+-19
+
+Passed:
+'\1001988'
+'\1048380'
+'\\'
+-17
+
+Passed:
+'('
+'~'
+'\142697'
+-16
+
+Passed:
+'\1097202'
+'<'
+'1'
+-26
+
+Passed:
+'j'
+'&'
+'\r'
+15
+
+Passed:
+'\STX'
+'E'
+'9'
+-18
+
+Passed:
+'\DEL'
+'\37825'
+'\996074'
+2
+
+Passed:
+'\t'
+'-'
+'K'
+20
+
+Passed:
+'n'
+'\ENQ'
+'$'
+9
+
+Passed:
+'\190479'
+'\a'
+'g'
+-7
+
+Passed:
+'f'
+'3'
+'\ACK'
+18
+
+Passed:
+'s'
+'T'
+'S'
+11
+
+Passed:
+'5'
+'Q'
+'\DEL'
+10
+
+Passed:
+'E'
+'\n'
+'\39806'
+5
+
+Passed:
+' '
+'\27187'
+'\185449'
+18
+
+Passed:
+'Y'
+'\ENQ'
+'\DEL'
+-39
+
+Passed:
+'Q'
+'\STX'
+'a'
+2
+
+Passed:
+'0'
+'\1093295'
+'\57820'
+-19
+
+Passed:
+'3'
+'='
+'\1109797'
+40
+
+Passed:
+'Y'
+'u'
+'"'
+21
+
+Passed:
+'F'
+'\1054325'
+'A'
+11
+
+Passed:
+'\US'
+'h'
+'>'
+12
+
+Passed:
+'r'
+'l'
+'o'
+-27
+
+Passed:
+'Q'
+'\1071227'
+'\38716'
+15
+
+Passed:
+'P'
+'f'
+'I'
+3
+
+Passed:
+'k'
+'\17894'
+'\\'
+19
+
+Passed:
+'Q'
+'\1022279'
+'@'
+19
+
+Passed:
+'\34178'
+'\FS'
+'F'
+-14
+
+Passed:
+'*'
+'p'
+'+'
+43
+
+Passed:
+'`'
+'\EM'
+'"'
+40
+
+Passed:
+' '
+'\t'
+'`'
+15
+
+Passed:
+'\\'
+'5'
+'\ETX'
+43
+
+Passed:
+'S'
+'@'
+'?'
+36
+
+Passed:
+'5'
+'!'
+'.'
+-24
+
+Passed:
+'\26114'
+'\b'
+'\32534'
+36
+
+Passed:
+'Q'
+'\DLE'
+'@'
+53
+
+Passed:
+'\35621'
+'e'
+';'
+-39
+
+Passed:
+'\RS'
+'\14016'
+')'
+-61
+
+Passed:
+'~'
+'\189063'
+','
+-1
+
+Passed:
+'`'
+'p'
+'r'
+-5
+
+Passed:
+'g'
+'k'
+'x'
+-19
+
+Passed:
+'\137484'
+'f'
+'\EOT'
+3
+
+Passed:
+'\t'
+'\1033753'
+'k'
+55
+
+Passed:
+'6'
+'e'
+'Z'
+-40
+
+Passed:
+'1'
+'Q'
+'D'
+-47
+
+Passed:
+'\STX'
+'C'
+'J'
+2
+
+Passed:
+'C'
+'\155164'
+'E'
+32
+
+Passed:
+'>'
+'A'
+'\1068755'
+-63
+
+Passed:
+'\ESC'
+'n'
+'\NUL'
+41
+
+Passed:
+'b'
+'\STX'
+'O'
+-4
+
+Passed:
+'\b'
+'A'
+'z'
+17
+
+Passed:
+'\r'
+'4'
+'\DEL'
+77
+
+Passed:
+'r'
+'\1027580'
+'k'
+44
+
+Passed:
+'U'
+'8'
+'\DC4'
+-43
+
+Passed:
+'\''
+'5'
+'l'
+-53
+
+Passed:
+'\GS'
+'f'
+'\EM'
+-27
+
+Passed:
+'?'
+'\16767'
+'\EM'
+-59
+
+Passed:
+'\174803'
+'-'
+'8'
+83
+
+Passed:
+'8'
+'\ACK'
+'w'
+58
+
+Passed:
+'_'
+'U'
+'\DLE'
+-74
+
+Passed:
+'7'
+'\NUL'
+'\182112'
+-84
+
+Passed:
+'|'
+']'
+'R'
+-68
+
+Passed:
+'\FS'
+'A'
+'a'
+-23
+
+Passed:
+'\1111295'
+'T'
+'!'
+11
+
+Passed:
+'\128659'
+'g'
+'x'
+5
+
+Passed:
+'\DC1'
+'x'
+'\25301'
+16
+
+Passed:
+'\183577'
+'\1038305'
+'w'
+18
+
+Passed:
+'p'
+'\197620'
+'F'
+-12
+
+Passed:
+'\144504'
+'D'
+'\SUB'
+-1
+
+Passed:
+'b'
+'\DC4'
+'~'
+-51
+
+Passed:
+'Y'
+'\SOH'
+'S'
+-21
+
+Passed:
+'7'
+'"'
+'t'
+35
+
+Passed:
+'E'
+'\44166'
+'\34997'
+69
+
+Passed:
+'\DC1'
+'F'
+'O'
+77
+
++++ OK, passed 100 tests.
+Test suite functor-test: PASS
+Test suite logged to: /home/ollie/code/haskell/haskell_from_first_principles/chapter_16/dist-newstyle/build/x86_64-linux/ghc-9.6.4/chapter16-0.1.0.0/t/functor-test/test/chapter16-0.1.0.0-functor-test.log
