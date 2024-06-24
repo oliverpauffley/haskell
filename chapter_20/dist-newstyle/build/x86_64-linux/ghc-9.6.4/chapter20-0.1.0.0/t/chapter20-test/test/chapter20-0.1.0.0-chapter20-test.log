@@ -1,0 +1,111 @@
+Test suite chapter20-test: RUNNING...
+
+Foldable:
+  foldr and foldMap: +++ OK, passed 500 tests.
+  foldl and foldMap: +++ OK, passed 500 tests.
+  fold and foldMap:  +++ OK, passed 500 tests.
+  length:            +++ OK, passed 500 tests.
+  foldMap':          +++ OK, passed 500 tests.
+  foldr':            +++ OK, passed 500 tests.
+  foldl':            +++ OK, passed 500 tests.
+  foldr1:            +++ OK, passed 500 tests.
+  foldl1:            +++ OK, passed 500 tests.
+  toList:            +++ OK, passed 500 tests.
+  null:              +++ OK, passed 500 tests.
+  elem:              +++ OK, passed 500 tests.
+  maximum:           +++ OK, passed 500 tests.
+  minimum:           +++ OK, passed 500 tests.
+  sum:               +++ OK, passed 500 tests.
+  product:           +++ OK, passed 500 tests.
+
+Foldable:
+  foldr and foldMap: +++ OK, passed 500 tests.
+  foldl and foldMap: +++ OK, passed 500 tests.
+  fold and foldMap:  +++ OK, passed 500 tests.
+  length:            +++ OK, passed 500 tests.
+  foldMap':          +++ OK, passed 500 tests.
+  foldr':            +++ OK, passed 500 tests.
+  foldl':            +++ OK, passed 500 tests.
+  foldr1:            +++ OK, passed 500 tests.
+  foldl1:            +++ OK, passed 500 tests.
+  toList:            +++ OK, passed 500 tests.
+  null:              +++ OK, passed 500 tests.
+  elem:              +++ OK, passed 500 tests.
+  maximum:           +++ OK, passed 500 tests.
+  minimum:           +++ OK, passed 500 tests.
+  sum:               +++ OK, passed 500 tests.
+  product:           +++ OK, passed 500 tests.
+
+Foldable:
+  foldr and foldMap: +++ OK, passed 500 tests.
+  foldl and foldMap: +++ OK, passed 500 tests.
+  fold and foldMap:  +++ OK, passed 500 tests.
+  length:            +++ OK, passed 500 tests.
+  foldMap':          +++ OK, passed 500 tests.
+  foldr':            +++ OK, passed 500 tests.
+  foldl':            +++ OK, passed 500 tests.
+  foldr1:            +++ OK, passed 500 tests.
+  foldl1:            +++ OK, passed 500 tests.
+  toList:            +++ OK, passed 500 tests.
+  null:              +++ OK, passed 500 tests.
+  elem:              +++ OK, passed 500 tests.
+  maximum:           +++ OK, passed 500 tests.
+  minimum:           +++ OK, passed 500 tests.
+  sum:               +++ OK, passed 500 tests.
+  product:           +++ OK, passed 500 tests.
+
+Foldable:
+  foldr and foldMap: +++ OK, passed 500 tests.
+  foldl and foldMap: +++ OK, passed 500 tests.
+  fold and foldMap:  +++ OK, passed 500 tests.
+  length:            +++ OK, passed 500 tests.
+  foldMap':          +++ OK, passed 500 tests.
+  foldr':            +++ OK, passed 500 tests.
+  foldl':            +++ OK, passed 500 tests.
+  foldr1:            +++ OK, passed 500 tests.
+  foldl1:            +++ OK, passed 500 tests.
+  toList:            +++ OK, passed 500 tests.
+  null:              +++ OK, passed 500 tests.
+  elem:              +++ OK, passed 500 tests.
+  maximum:           +++ OK, passed 500 tests.
+  minimum:           +++ OK, passed 500 tests.
+  sum:               +++ OK, passed 500 tests.
+  product:           +++ OK, passed 500 tests.
+
+Foldable:
+  foldr and foldMap: +++ OK, passed 500 tests.
+  foldl and foldMap: +++ OK, passed 500 tests.
+  fold and foldMap:  +++ OK, passed 500 tests.
+  length:            +++ OK, passed 500 tests.
+  foldMap':          +++ OK, passed 500 tests.
+  foldr':            +++ OK, passed 500 tests.
+  foldl':            +++ OK, passed 500 tests.
+  foldr1:            +++ OK, passed 500 tests.
+  foldl1:            +++ OK, passed 500 tests.
+  toList:            +++ OK, passed 500 tests.
+  null:              +++ OK, passed 500 tests.
+  elem:              +++ OK, passed 500 tests.
+  maximum:           +++ OK, passed 500 tests.
+  minimum:           +++ OK, passed 500 tests.
+  sum:               +++ OK, passed 500 tests.
+  product:           +++ OK, passed 500 tests.
+
+filterF
+  filters numbers greater than 3 [✔]
+  filters vowels from words [✘]
+
+Failures:
+
+  test/Main.hs:47:35: 
+  1) filterF filters vowels from words
+       expected: "e"
+        but got: "eo"
+
+  To rerun use: --match "/filterF/filters vowels from words/" --seed 393029606
+
+Randomized with seed 393029606
+
+Finished in 0.0002 seconds
+2 examples, 1 failure
+Test suite chapter20-test: FAIL
+Test suite logged to: /home/ollie/code/haskell/haskell_from_first_principles/chapter_20/dist-newstyle/build/x86_64-linux/ghc-9.6.4/chapter20-0.1.0.0/t/chapter20-test/test/chapter20-0.1.0.0-chapter20-test.log
