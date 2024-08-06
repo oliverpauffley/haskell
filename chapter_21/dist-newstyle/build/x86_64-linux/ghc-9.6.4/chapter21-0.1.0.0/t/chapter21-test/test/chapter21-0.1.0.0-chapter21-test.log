@@ -1,0 +1,75 @@
+Test suite chapter21-test: RUNNING...
+
+Traversable:
+  identity:              +++ OK, passed 500 tests.
+  composition:           +++ OK, passed 500 tests.
+  fmap:                  +++ OK, passed 500 tests.
+  foldMap:               +++ OK, passed 500 tests.
+  sequenceA identity:    +++ OK, passed 500 tests.
+  sequenceA composition: +++ OK, passed 500 tests.
+
+Traversable:
+  identity:              +++ OK, passed 500 tests.
+  composition:           +++ OK, passed 500 tests.
+  fmap:                  +++ OK, passed 500 tests.
+  foldMap:               +++ OK, passed 500 tests.
+  sequenceA identity:    +++ OK, passed 500 tests.
+  sequenceA composition: +++ OK, passed 500 tests.
+
+Traversable:
+  identity:              +++ OK, passed 500 tests.
+  composition:           +++ OK, passed 500 tests.
+  fmap:                  +++ OK, passed 500 tests.
+  foldMap:               +++ OK, passed 500 tests.
+  sequenceA identity:    +++ OK, passed 500 tests.
+  sequenceA composition: +++ OK, passed 500 tests.
+
+Traversable:
+  identity:              +++ OK, passed 500 tests.
+  composition:           +++ OK, passed 500 tests.
+  fmap:                  +++ OK, passed 500 tests.
+  foldMap:               +++ OK, passed 500 tests.
+  sequenceA identity:    +++ OK, passed 500 tests.
+  sequenceA composition: +++ OK, passed 500 tests.
+
+Traversable:
+  identity:              +++ OK, passed 500 tests.
+  composition:           +++ OK, passed 500 tests.
+  fmap:                  +++ OK, passed 500 tests.
+  foldMap:               +++ OK, passed 500 tests.
+  sequenceA identity:    +++ OK, passed 500 tests.
+  sequenceA composition: +++ OK, passed 500 tests.
+
+Traversable:
+  identity:              +++ OK, passed 500 tests.
+  composition:           +++ OK, passed 500 tests.
+  fmap:                  +++ OK, passed 500 tests.
+  foldMap:               +++ OK, passed 500 tests.
+  sequenceA identity:    +++ OK, passed 500 tests.
+  sequenceA composition: +++ OK, passed 500 tests.
+
+Traversable:
+  identity:              +++ OK, passed 500 tests.
+  composition:           +++ OK, passed 500 tests.
+  fmap:                  +++ OK, passed 500 tests.
+  foldMap:               +++ OK, passed 500 tests.
+  sequenceA identity:    +++ OK, passed 500 tests.
+  sequenceA composition: +++ OK, passed 500 tests.
+
+Traversable:
+  identity:              +++ OK, passed 500 tests.
+  composition:           +++ OK, passed 500 tests.
+  fmap:                  +++ OK, passed 500 tests.
+  foldMap:               +++ OK, passed 500 tests.
+  sequenceA identity:    +++ OK, passed 500 tests.
+  sequenceA composition: +++ OK, passed 500 tests.
+
+Traversable:
+  identity:              +++ OK, passed 500 tests.
+  composition:           +++ OK, passed 500 tests.
+  fmap:                  +++ OK, passed 500 tests.
+  foldMap:               +++ OK, passed 500 tests.
+  sequenceA identity:    +++ OK, passed 500 tests.
+  sequenceA composition: +++ OK, passed 500 tests.
+Test suite chapter21-test: PASS
+Test suite logged to: /home/ollie/code/haskell/haskell_from_first_principles/chapter_21/dist-newstyle/build/x86_64-linux/ghc-9.6.4/chapter21-0.1.0.0/t/chapter21-test/test/chapter21-0.1.0.0-chapter21-test.log
