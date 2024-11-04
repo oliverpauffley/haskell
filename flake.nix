@@ -27,6 +27,20 @@
         legacyPackages = pkgs;
 
         packages.default = flake.packages."hello:exe:hello";
+        devShell = pkgs.mkShell rec {
+          buildInputs = [
+            pkgs.zlib
+            pkgs.zlib.dev
+            pkgs.pkg-config
+            pkgs.nodejs
+            pkgs.cacert
+            pkgs.ghcid
+            pkgs.cabal-install
+            pkgs.haskellPackages.ghc
+            pkgs.stack
+          ];
+          LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath buildInputs;
+        };
       });
 
   # --- Flake Local Nix Configuration ----------------------------
